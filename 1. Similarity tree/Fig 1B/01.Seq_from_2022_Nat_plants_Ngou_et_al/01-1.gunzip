@@ -1,0 +1,4 @@
+gunzip LRR-RLK.fasta.gz
+gunzip LRR-RLP.fasta.gz
+gunzip LysM-RLK.fasta.gz
+gunzip LysM-RLP.fasta.gz

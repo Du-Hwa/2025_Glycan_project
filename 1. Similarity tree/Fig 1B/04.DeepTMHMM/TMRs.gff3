@@ -1,0 +1,3539 @@
+##gff-version 3
+# AT5G67280.1 Length: 751
+# AT5G67280.1 Number of predicted TMRs: 1
+AT5G67280.1	signal	1	30				
+AT5G67280.1	outside	31	336				
+AT5G67280.1	TMhelix	337	359				
+AT5G67280.1	inside	360	751				
+//
+# AT5G20480.2 Length: 1031
+# AT5G20480.2 Number of predicted TMRs: 1
+AT5G20480.2	signal	1	24				
+AT5G20480.2	outside	25	649				
+AT5G20480.2	TMhelix	650	670				
+AT5G20480.2	inside	671	1031				
+//
+# AT1G34420.1 Length: 966
+# AT1G34420.1 Number of predicted TMRs: 1
+AT1G34420.1	signal	1	37				
+AT1G34420.1	outside	38	611				
+AT1G34420.1	TMhelix	612	632				
+AT1G34420.1	inside	633	966				
+//
+# AT2G36570.1 Length: 672
+# AT2G36570.1 Number of predicted TMRs: 1
+AT2G36570.1	signal	1	21				
+AT2G36570.1	outside	22	269				
+AT2G36570.1	TMhelix	270	291				
+AT2G36570.1	inside	292	672				
+//
+# AT3G56100.1 Length: 784
+# AT3G56100.1 Number of predicted TMRs: 1
+AT3G56100.1	signal	1	48				
+AT3G56100.1	outside	49	409				
+AT3G56100.1	TMhelix	410	430				
+AT3G56100.1	inside	431	784				
+//
+# AT4G22730.1 Length: 688
+# AT4G22730.1 Number of predicted TMRs: 1
+AT4G22730.1	signal	1	24				
+AT4G22730.1	outside	25	312				
+AT4G22730.1	TMhelix	313	333				
+AT4G22730.1	inside	334	688				
+//
+# AT2G15300.1 Length: 744
+# AT2G15300.1 Number of predicted TMRs: 1
+AT2G15300.1	signal	1	23				
+AT2G15300.1	outside	24	335				
+AT2G15300.1	TMhelix	336	357				
+AT2G15300.1	inside	358	744				
+//
+# AT1G17750.1 Length: 1088
+# AT1G17750.1 Number of predicted TMRs: 1
+AT1G17750.1	signal	1	26				
+AT1G17750.1	outside	27	739				
+AT1G17750.1	TMhelix	740	760				
+AT1G17750.1	inside	761	1088				
+//
+# AT2G02780.1 Length: 742
+# AT2G02780.1 Number of predicted TMRs: 1
+AT2G02780.1	signal	1	27				
+AT2G02780.1	outside	28	354				
+AT2G02780.1	TMhelix	355	377				
+AT2G02780.1	inside	378	742				
+//
+# AT4G08850.1 Length: 1045
+# AT4G08850.1 Number of predicted TMRs: 1
+AT4G08850.1	signal	1	46				
+AT4G08850.1	outside	47	708				
+AT4G08850.1	TMhelix	709	732				
+AT4G08850.1	inside	733	1045				
+//
+# AT4G20140.1 Length: 1249
+# AT4G20140.1 Number of predicted TMRs: 1
+AT4G20140.1	signal	1	18				
+AT4G20140.1	outside	19	874				
+AT4G20140.1	TMhelix	875	895				
+AT4G20140.1	inside	896	1249				
+//
+# AT1G29730.2 Length: 1001
+# AT1G29730.2 Number of predicted TMRs: 1
+AT1G29730.2	signal	1	35				
+AT1G29730.2	outside	36	627				
+AT1G29730.2	TMhelix	628	646				
+AT1G29730.2	inside	647	1001				
+//
+# AT3G03770.3 Length: 802
+# AT3G03770.3 Number of predicted TMRs: 1
+AT3G03770.3	signal	1	25				
+AT3G03770.3	outside	26	391				
+AT3G03770.3	TMhelix	392	412				
+AT3G03770.3	inside	413	802				
+//
+# AT1G51790.2 Length: 934
+# AT1G51790.2 Number of predicted TMRs: 1
+AT1G51790.2	signal	1	23				
+AT1G51790.2	outside	24	520				
+AT1G51790.2	TMhelix	521	541				
+AT1G51790.2	inside	542	934				
+//
+# AT1G67510.1 Length: 719
+# AT1G67510.1 Number of predicted TMRs: 1
+AT1G67510.1	signal	1	22				
+AT1G67510.1	outside	23	314				
+AT1G67510.1	TMhelix	315	337				
+AT1G67510.1	inside	338	719				
+//
+# AT4G29180.2 Length: 913
+# AT4G29180.2 Number of predicted TMRs: 1
+AT4G29180.2	signal	1	22				
+AT4G29180.2	outside	23	509				
+AT4G29180.2	TMhelix	510	530				
+AT4G29180.2	inside	531	913				
+//
+# AT1G35710.1 Length: 1120
+# AT1G35710.1 Number of predicted TMRs: 1
+AT1G35710.1	signal	1	29				
+AT1G35710.1	outside	30	785				
+AT1G35710.1	TMhelix	786	807				
+AT1G35710.1	inside	808	1120				
+//
+# AT1G05700.2 Length: 883
+# AT1G05700.2 Number of predicted TMRs: 1
+AT1G05700.2	signal	1	25				
+AT1G05700.2	outside	26	509				
+AT1G05700.2	TMhelix	510	531				
+AT1G05700.2	inside	532	883				
+//
+# AT5G49770.1 Length: 946
+# AT5G49770.1 Number of predicted TMRs: 1
+AT5G49770.1	signal	1	25				
+AT5G49770.1	outside	26	561				
+AT5G49770.1	TMhelix	562	582				
+AT5G49770.1	inside	583	946				
+//
+# AT5G62230.1 Length: 966
+# AT5G62230.1 Number of predicted TMRs: 1
+AT5G62230.1	signal	1	25				
+AT5G62230.1	outside	26	582				
+AT5G62230.1	TMhelix	583	603				
+AT5G62230.1	inside	604	966				
+//
+# AT1G08590.1 Length: 1029
+# AT1G08590.1 Number of predicted TMRs: 1
+AT1G08590.1	signal	1	23				
+AT1G08590.1	outside	24	644				
+AT1G08590.1	TMhelix	645	665				
+AT1G08590.1	inside	666	1029				
+//
+# AT5G16900.3 Length: 866
+# AT5G16900.3 Number of predicted TMRs: 1
+AT5G16900.3	signal	1	20				
+AT5G16900.3	outside	21	514				
+AT5G16900.3	TMhelix	515	535				
+AT5G16900.3	inside	536	866				
+//
+# AT1G71830.1 Length: 625
+# AT1G71830.1 Number of predicted TMRs: 1
+AT1G71830.1	signal	1	26				
+AT1G71830.1	outside	27	243				
+AT1G71830.1	TMhelix	244	262				
+AT1G71830.1	inside	263	625				
+//
+# AT3G46420.1 Length: 838
+# AT3G46420.1 Number of predicted TMRs: 1
+AT3G46420.1	signal	1	23				
+AT3G46420.1	outside	24	509				
+AT3G46420.1	TMhelix	510	525				
+AT3G46420.1	inside	526	838				
+//
+# AT1G28440.1 Length: 996
+# AT1G28440.1 Number of predicted TMRs: 1
+AT1G28440.1	signal	1	15				
+AT1G28440.1	outside	16	618				
+AT1G28440.1	TMhelix	619	639				
+AT1G28440.1	inside	640	996				
+//
+# AT5G14210.2 Length: 806
+# AT5G14210.2 Number of predicted TMRs: 1
+AT5G14210.2	signal	1	23				
+AT5G14210.2	outside	24	395				
+AT5G14210.2	TMhelix	396	417				
+AT5G14210.2	inside	418	806				
+//
+# AT1G66830.1 Length: 685
+# AT1G66830.1 Number of predicted TMRs: 1
+AT1G66830.1	signal	1	21				
+AT1G66830.1	outside	22	305				
+AT1G66830.1	TMhelix	306	326				
+AT1G66830.1	inside	327	685				
+//
+# AT3G14840.2 Length: 1020
+# AT3G14840.2 Number of predicted TMRs: 1
+AT3G14840.2	signal	1	26				
+AT3G14840.2	outside	27	614				
+AT3G14840.2	TMhelix	615	635				
+AT3G14840.2	inside	636	1020				
+//
+# AT2G24130.2 Length: 995
+# AT2G24130.2 Number of predicted TMRs: 1
+AT2G24130.2	signal	1	20				
+AT2G24130.2	outside	21	608				
+AT2G24130.2	TMhelix	609	629				
+AT2G24130.2	inside	630	995				
+//
+# AT5G59680.1 Length: 887
+# AT5G59680.1 Number of predicted TMRs: 1
+AT5G59680.1	signal	1	23				
+AT5G59680.1	outside	24	510				
+AT5G59680.1	TMhelix	511	531				
+AT5G59680.1	inside	532	887				
+//
+# AT3G02130.1 Length: 1151
+# AT3G02130.1 Number of predicted TMRs: 1
+AT3G02130.1	signal	1	43				
+AT3G02130.1	outside	44	811				
+AT3G02130.1	TMhelix	812	832				
+AT3G02130.1	inside	833	1151				
+//
+# AT2G35620.4 Length: 589
+# AT2G35620.4 Number of predicted TMRs: 1
+AT2G35620.4	signal	1	28				
+AT2G35620.4	outside	29	236				
+AT2G35620.4	TMhelix	237	258				
+AT2G35620.4	inside	259	589				
+//
+# AT5G07180.1 Length: 967
+# AT5G07180.1 Number of predicted TMRs: 1
+AT5G07180.1	signal	1	27				
+AT5G07180.1	outside	28	587				
+AT5G07180.1	TMhelix	588	606				
+AT5G07180.1	inside	607	967				
+//
+# AT5G48940.1 Length: 1135
+# AT5G48940.1 Number of predicted TMRs: 1
+AT5G48940.1	signal	1	35				
+AT5G48940.1	outside	36	723				
+AT5G48940.1	TMhelix	724	745				
+AT5G48940.1	inside	746	1135				
+//
+# AT5G49660.1 Length: 966
+# AT5G49660.1 Number of predicted TMRs: 1
+AT5G49660.1	signal	1	24				
+AT5G49660.1	outside	25	593				
+AT5G49660.1	TMhelix	594	613				
+AT5G49660.1	inside	614	966				
+//
+# AT1G78980.1 Length: 699
+# AT1G78980.1 Number of predicted TMRs: 1
+AT1G78980.1	signal	1	22				
+AT1G78980.1	outside	23	273				
+AT1G78980.1	TMhelix	274	294				
+AT1G78980.1	inside	295	699				
+//
+# AT3G14350.1 Length: 717
+# AT3G14350.1 Number of predicted TMRs: 1
+AT3G14350.1	signal	1	25				
+AT3G14350.1	outside	26	291				
+AT3G14350.1	TMhelix	292	312				
+AT3G14350.1	inside	313	717				
+//
+# AT3G47570.1 Length: 1010
+# AT3G47570.1 Number of predicted TMRs: 1
+AT3G47570.1	signal	1	19				
+AT3G47570.1	outside	20	641				
+AT3G47570.1	TMhelix	642	664				
+AT3G47570.1	inside	665	1010				
+//
+# AT3G46400.1 Length: 883
+# AT3G46400.1 Number of predicted TMRs: 1
+AT3G46400.1	signal	1	24				
+AT3G46400.1	outside	25	508				
+AT3G46400.1	TMhelix	509	531				
+AT3G46400.1	inside	532	883				
+//
+# AT1G48480.1 Length: 655
+# AT1G48480.1 Number of predicted TMRs: 1
+AT1G48480.1	signal	1	31				
+AT1G48480.1	outside	32	269				
+AT1G48480.1	TMhelix	270	290				
+AT1G48480.1	inside	291	655				
+//
+# AT2G42290.1 Length: 646
+# AT2G42290.1 Number of predicted TMRs: 1
+AT2G42290.1	signal	1	23				
+AT2G42290.1	outside	24	277				
+AT2G42290.1	TMhelix	278	298				
+AT2G42290.1	inside	299	646				
+//
+# AT1G55610.2 Length: 1166
+# AT1G55610.2 Number of predicted TMRs: 1
+AT1G55610.2	signal	1	24				
+AT1G55610.2	outside	25	776				
+AT1G55610.2	TMhelix	777	797				
+AT1G55610.2	inside	798	1166				
+//
+# AT1G24650.1 Length: 886
+# AT1G24650.1 Number of predicted TMRs: 1
+AT1G24650.1	signal	1	20				
+AT1G24650.1	outside	21	461				
+AT1G24650.1	TMhelix	462	482				
+AT1G24650.1	inside	483	886				
+//
+# AT2G41820.1 Length: 890
+# AT2G41820.1 Number of predicted TMRs: 1
+AT2G41820.1	signal	1	23				
+AT2G41820.1	outside	24	534				
+AT2G41820.1	TMhelix	535	555				
+AT2G41820.1	inside	556	890				
+//
+# AT4G28650.1 Length: 1013
+# AT4G28650.1 Number of predicted TMRs: 1
+AT4G28650.1	signal	1	23				
+AT4G28650.1	outside	24	634				
+AT4G28650.1	TMhelix	635	655				
+AT4G28650.1	inside	656	1013				
+//
+# AT5G59650.2 Length: 892
+# AT5G59650.2 Number of predicted TMRs: 1
+AT5G59650.2	signal	1	23				
+AT5G59650.2	outside	24	520				
+AT5G59650.2	TMhelix	521	541				
+AT5G59650.2	inside	542	892				
+//
+# AT1G53430.1 Length: 1038
+# AT1G53430.1 Number of predicted TMRs: 1
+AT1G53430.1	signal	1	28				
+AT1G53430.1	outside	29	609				
+AT1G53430.1	TMhelix	610	630				
+AT1G53430.1	inside	631	1038				
+//
+# AT4G29450.1 Length: 863
+# AT4G29450.1 Number of predicted TMRs: 1
+AT4G29450.1	signal	1	21				
+AT4G29450.1	outside	22	515				
+AT4G29450.1	TMhelix	516	536				
+AT4G29450.1	inside	537	863				
+//
+# AT2G45340.1 Length: 691
+# AT2G45340.1 Number of predicted TMRs: 1
+AT2G45340.1	signal	1	21				
+AT2G45340.1	outside	22	312				
+AT2G45340.1	TMhelix	313	333				
+AT2G45340.1	inside	334	691				
+//
+# AT3G20190.1 Length: 679
+# AT3G20190.1 Number of predicted TMRs: 1
+AT3G20190.1	signal	1	39				
+AT3G20190.1	outside	40	282				
+AT3G20190.1	TMhelix	283	302				
+AT3G20190.1	inside	303	679				
+//
+# AT3G46330.1 Length: 878
+# AT3G46330.1 Number of predicted TMRs: 1
+AT3G46330.1	signal	1	25				
+AT3G46330.1	outside	26	513				
+AT3G46330.1	TMhelix	514	534				
+AT3G46330.1	inside	535	878				
+//
+# AT4G30520.1 Length: 648
+# AT4G30520.1 Number of predicted TMRs: 1
+AT4G30520.1	signal	1	30				
+AT4G30520.1	outside	31	238				
+AT4G30520.1	TMhelix	239	259				
+AT4G30520.1	inside	260	648				
+//
+# AT4G22130.1 Length: 703
+# AT4G22130.1 Number of predicted TMRs: 1
+AT4G22130.1	signal	1	27				
+AT4G22130.1	outside	28	289				
+AT4G22130.1	TMhelix	290	310				
+AT4G22130.1	inside	311	703				
+//
+# AT2G26730.1 Length: 658
+# AT2G26730.1 Number of predicted TMRs: 1
+AT2G26730.1	signal	1	23				
+AT2G26730.1	outside	24	257				
+AT2G26730.1	TMhelix	258	278				
+AT2G26730.1	inside	279	658				
+//
+# AT1G07560.1 Length: 871
+# AT1G07560.1 Number of predicted TMRs: 1
+AT1G07560.1	signal	1	24				
+AT1G07560.1	outside	25	510				
+AT1G07560.1	TMhelix	511	536				
+AT1G07560.1	inside	537	871				
+//
+# AT1G75640.1 Length: 1140
+# AT1G75640.1 Number of predicted TMRs: 1
+AT1G75640.1	signal	1	24				
+AT1G75640.1	outside	25	754				
+AT1G75640.1	TMhelix	755	777				
+AT1G75640.1	inside	778	1140				
+//
+# AT2G20850.1 Length: 775
+# AT2G20850.1 Number of predicted TMRs: 1
+AT2G20850.1	signal	1	31				
+AT2G20850.1	outside	32	314				
+AT2G20850.1	TMhelix	315	335				
+AT2G20850.1	inside	336	775				
+//
+# AT2G02220.1 Length: 1008
+# AT2G02220.1 Number of predicted TMRs: 1
+AT2G02220.1	signal	1	25				
+AT2G02220.1	outside	26	659				
+AT2G02220.1	TMhelix	660	680				
+AT2G02220.1	inside	681	1008				
+//
+# AT4G20270.1 Length: 992
+# AT4G20270.1 Number of predicted TMRs: 1
+AT4G20270.1	signal	1	22				
+AT4G20270.1	outside	23	656				
+AT4G20270.1	TMhelix	657	677				
+AT4G20270.1	inside	678	992				
+//
+# AT1G14390.1 Length: 728
+# AT1G14390.1 Number of predicted TMRs: 1
+AT1G14390.1	signal	1	27				
+AT1G14390.1	outside	28	355				
+AT1G14390.1	TMhelix	356	377				
+AT1G14390.1	inside	378	728				
+//
+# AT4G31250.1 Length: 676
+# AT4G31250.1 Number of predicted TMRs: 1
+AT4G31250.1	signal	1	26				
+AT4G31250.1	outside	27	245				
+AT4G31250.1	TMhelix	246	266				
+AT4G31250.1	inside	267	676				
+//
+# AT5G10290.2 Length: 613
+# AT5G10290.2 Number of predicted TMRs: 1
+AT5G10290.2	signal	1	27				
+AT5G10290.2	outside	28	225				
+AT5G10290.2	TMhelix	226	246				
+AT5G10290.2	inside	247	613				
+//
+# AT3G28040.1 Length: 1016
+# AT3G28040.1 Number of predicted TMRs: 1
+AT3G28040.1	signal	1	26				
+AT3G28040.1	outside	27	646				
+AT3G28040.1	TMhelix	647	667				
+AT3G28040.1	inside	668	1016				
+//
+# AT3G25560.3 Length: 647
+# AT3G25560.3 Number of predicted TMRs: 1
+AT3G25560.3	signal	1	32				
+AT3G25560.3	outside	33	248				
+AT3G25560.3	TMhelix	249	269				
+AT3G25560.3	inside	270	647				
+//
+# AT3G21340.1 Length: 899
+# AT3G21340.1 Number of predicted TMRs: 1
+AT3G21340.1	signal	1	27				
+AT3G21340.1	outside	28	519				
+AT3G21340.1	TMhelix	520	542				
+AT3G21340.1	inside	543	899				
+//
+# AT5G65710.1 Length: 993
+# AT5G65710.1 Number of predicted TMRs: 1
+AT5G65710.1	signal	1	24				
+AT5G65710.1	outside	25	631				
+AT5G65710.1	TMhelix	632	652				
+AT5G65710.1	inside	653	993				
+//
+# AT3G56370.1 Length: 964
+# AT3G56370.1 Number of predicted TMRs: 1
+AT3G56370.1	signal	1	20				
+AT3G56370.1	outside	21	604				
+AT3G56370.1	TMhelix	605	624				
+AT3G56370.1	inside	625	964				
+//
+# AT2G26330.1 Length: 976
+# AT2G26330.1 Number of predicted TMRs: 1
+AT2G26330.1	signal	1	24				
+AT2G26330.1	outside	25	582				
+AT2G26330.1	TMhelix	583	601				
+AT2G26330.1	inside	602	976				
+//
+# AT2G19210.1 Length: 881
+# AT2G19210.1 Number of predicted TMRs: 1
+AT2G19210.1	signal	1	25				
+AT2G19210.1	outside	26	519				
+AT2G19210.1	TMhelix	520	540				
+AT2G19210.1	inside	541	881				
+//
+# AT5G51560.1 Length: 680
+# AT5G51560.1 Number of predicted TMRs: 1
+AT5G51560.1	signal	1	26				
+AT5G51560.1	outside	27	309				
+AT5G51560.1	TMhelix	310	330				
+AT5G51560.1	inside	331	680				
+//
+# AT3G17840.1 Length: 647
+# AT3G17840.1 Number of predicted TMRs: 1
+AT3G17840.1	signal	1	29				
+AT3G17840.1	outside	30	267				
+AT3G17840.1	TMhelix	268	288				
+AT3G17840.1	inside	289	647				
+//
+# AT5G01950.7 Length: 956
+# AT5G01950.7 Number of predicted TMRs: 1
+AT5G01950.7	signal	1	25				
+AT5G01950.7	outside	26	562				
+AT5G01950.7	TMhelix	563	583				
+AT5G01950.7	inside	584	956				
+//
+# AT1G51850.2 Length: 885
+# AT1G51850.2 Number of predicted TMRs: 1
+AT1G51850.2	signal	1	20				
+AT1G51850.2	outside	21	509				
+AT1G51850.2	TMhelix	510	530				
+AT1G51850.2	inside	531	885				
+//
+# AT1G07650.2 Length: 1020
+# AT1G07650.2 Number of predicted TMRs: 1
+AT1G07650.2	signal	1	23				
+AT1G07650.2	outside	24	625				
+AT1G07650.2	TMhelix	626	649				
+AT1G07650.2	inside	650	1020				
+//
+# AT1G11130.1 Length: 768
+# AT1G11130.1 Number of predicted TMRs: 1
+AT1G11130.1	signal	1	24				
+AT1G11130.1	outside	25	341				
+AT1G11130.1	TMhelix	342	362				
+AT1G11130.1	inside	363	768				
+//
+# AT1G51805.1 Length: 884
+# AT1G51805.1 Number of predicted TMRs: 1
+AT1G51805.1	signal	1	20				
+AT1G51805.1	outside	21	508				
+AT1G51805.1	TMhelix	509	529				
+AT1G51805.1	inside	530	884				
+//
+# AT1G56130.2 Length: 1032
+# AT1G56130.2 Number of predicted TMRs: 1
+AT1G56130.2	signal	1	29				
+AT1G56130.2	outside	30	637				
+AT1G56130.2	TMhelix	638	659				
+AT1G56130.2	inside	660	1032				
+//
+# AT5G63410.1 Length: 680
+# AT5G63410.1 Number of predicted TMRs: 1
+AT5G63410.1	signal	1	22				
+AT5G63410.1	outside	23	318				
+AT5G63410.1	TMhelix	319	338				
+AT5G63410.1	inside	339	680				
+//
+# AT2G37050.3 Length: 934
+# AT2G37050.3 Number of predicted TMRs: 1
+AT2G37050.3	signal	1	23				
+AT2G37050.3	outside	24	530				
+AT2G37050.3	TMhelix	531	552				
+AT2G37050.3	inside	553	934				
+//
+# AT1G68400.1 Length: 670
+# AT1G68400.1 Number of predicted TMRs: 1
+AT1G68400.1	signal	1	27				
+AT1G68400.1	outside	28	276				
+AT1G68400.1	TMhelix	277	297				
+AT1G68400.1	inside	298	670				
+//
+# AT1G74360.1 Length: 1106
+# AT1G74360.1 Number of predicted TMRs: 1
+AT1G74360.1	signal	1	35				
+AT1G74360.1	outside	36	730				
+AT1G74360.1	TMhelix	731	753				
+AT1G74360.1	inside	754	1106				
+//
+# AT5G25930.1 Length: 1005
+# AT5G25930.1 Number of predicted TMRs: 1
+AT5G25930.1	signal	1	22				
+AT5G25930.1	outside	23	630				
+AT5G25930.1	TMhelix	631	651				
+AT5G25930.1	inside	652	1005				
+//
+# AT3G19700.1 Length: 991
+# AT3G19700.1 Number of predicted TMRs: 1
+AT3G19700.1	signal	1	19				
+AT3G19700.1	outside	20	613				
+AT3G19700.1	TMhelix	614	634				
+AT3G19700.1	inside	635	991				
+//
+# AT1G17230.2 Length: 1133
+# AT1G17230.2 Number of predicted TMRs: 1
+AT1G17230.2	signal	1	23				
+AT1G17230.2	outside	24	734				
+AT1G17230.2	TMhelix	735	755				
+AT1G17230.2	inside	756	1133				
+//
+# AT2G28970.1 Length: 786
+# AT2G28970.1 Number of predicted TMRs: 1
+AT2G28970.1	signal	1	19				
+AT2G28970.1	outside	20	411				
+AT2G28970.1	TMhelix	412	432				
+AT2G28970.1	inside	433	786				
+//
+# AT1G51860.1 Length: 890
+# AT1G51860.1 Number of predicted TMRs: 1
+AT1G51860.1	signal	1	23				
+AT1G51860.1	outside	24	513				
+AT1G51860.1	TMhelix	514	534				
+AT1G51860.1	inside	535	890				
+//
+# AT4G33430.2 Length: 662
+# AT4G33430.2 Number of predicted TMRs: 1
+AT4G33430.2	signal	1	25				
+AT4G33430.2	outside	26	277				
+AT4G33430.2	TMhelix	278	294				
+AT4G33430.2	inside	295	662				
+//
+# AT2G13790.1 Length: 620
+# AT2G13790.1 Number of predicted TMRs: 1
+AT2G13790.1	signal	1	29				
+AT2G13790.1	outside	30	231				
+AT2G13790.1	TMhelix	232	252				
+AT2G13790.1	inside	253	620				
+//
+# AT1G29740.1 Length: 1078
+# AT1G29740.1 Number of predicted TMRs: 1
+AT1G29740.1	signal	1	34				
+AT1G29740.1	outside	35	628				
+AT1G29740.1	TMhelix	629	649				
+AT1G29740.1	inside	650	1078				
+//
+# AT5G45800.1 Length: 666
+# AT5G45800.1 Number of predicted TMRs: 1
+AT5G45800.1	signal	1	17				
+AT5G45800.1	outside	18	296				
+AT5G45800.1	TMhelix	297	318				
+AT5G45800.1	inside	319	666				
+//
+# AT5G48740.1 Length: 895
+# AT5G48740.1 Number of predicted TMRs: 1
+AT5G48740.1	signal	1	16				
+AT5G48740.1	outside	17	546				
+AT5G48740.1	TMhelix	547	567				
+AT5G48740.1	inside	568	895				
+//
+# AT5G65700.2 Length: 1003
+# AT5G65700.2 Number of predicted TMRs: 1
+AT5G65700.2	signal	1	19				
+AT5G65700.2	outside	20	641				
+AT5G65700.2	TMhelix	642	661				
+AT5G65700.2	inside	662	1003				
+//
+# AT2G16250.1 Length: 915
+# AT2G16250.1 Number of predicted TMRs: 1
+AT2G16250.1	signal	1	28				
+AT2G16250.1	outside	29	446				
+AT2G16250.1	TMhelix	447	470				
+AT2G16250.1	inside	471	915				
+//
+# AT2G25790.1 Length: 960
+# AT2G25790.1 Number of predicted TMRs: 1
+AT2G25790.1	signal	1	29				
+AT2G25790.1	outside	30	633				
+AT2G25790.1	TMhelix	634	654				
+AT2G25790.1	inside	655	960				
+//
+# AT3G53590.1 Length: 944
+# AT3G53590.1 Number of predicted TMRs: 1
+AT3G53590.1	signal	1	33				
+AT3G53590.1	outside	34	557				
+AT3G53590.1	TMhelix	558	578				
+AT3G53590.1	inside	579	944				
+//
+# AT1G73080.1 Length: 1123
+# AT1G73080.1 Number of predicted TMRs: 1
+AT1G73080.1	signal	1	28				
+AT1G73080.1	outside	29	769				
+AT1G73080.1	TMhelix	770	791				
+AT1G73080.1	inside	792	1123				
+//
+# AT1G79620.5 Length: 997
+# AT1G79620.5 Number of predicted TMRs: 1
+AT1G79620.5	signal	1	30				
+AT1G79620.5	outside	31	594				
+AT1G79620.5	TMhelix	595	615				
+AT1G79620.5	inside	616	997				
+//
+# AT1G51800.1 Length: 894
+# AT1G51800.1 Number of predicted TMRs: 1
+AT1G51800.1	signal	1	23				
+AT1G51800.1	outside	24	514				
+AT1G51800.1	TMhelix	515	535				
+AT1G51800.1	inside	536	894				
+//
+# AT1G53420.1 Length: 953
+# AT1G53420.1 Number of predicted TMRs: 1
+AT1G53420.1	signal	1	24				
+AT1G53420.1	outside	25	566				
+AT1G53420.1	TMhelix	567	587				
+AT1G53420.1	inside	588	953				
+//
+# AT1G56120.1 Length: 1047
+# AT1G56120.1 Number of predicted TMRs: 1
+AT1G56120.1	outside	1	653				
+AT1G56120.1	TMhelix	654	675				
+AT1G56120.1	inside	676	1047				
+//
+# AT2G33170.2 Length: 1124
+# AT2G33170.2 Number of predicted TMRs: 1
+AT2G33170.2	signal	1	32				
+AT2G33170.2	outside	33	752				
+AT2G33170.2	TMhelix	753	773				
+AT2G33170.2	inside	774	1124				
+//
+# AT5G41180.1 Length: 664
+# AT5G41180.1 Number of predicted TMRs: 1
+AT5G41180.1	signal	1	27				
+AT5G41180.1	outside	28	278				
+AT5G41180.1	TMhelix	279	299				
+AT5G41180.1	inside	300	664				
+//
+# AT5G39390.1 Length: 502
+# AT5G39390.1 Number of predicted TMRs: 1
+AT5G39390.1	signal	1	23				
+AT5G39390.1	outside	24	168				
+AT5G39390.1	TMhelix	169	189				
+AT5G39390.1	inside	190	502				
+//
+# AT3G47110.1 Length: 1025
+# AT3G47110.1 Number of predicted TMRs: 1
+AT3G47110.1	signal	1	30				
+AT3G47110.1	outside	31	653				
+AT3G47110.1	TMhelix	654	676				
+AT3G47110.1	inside	677	1025				
+//
+# AT2G01950.1 Length: 1143
+# AT2G01950.1 Number of predicted TMRs: 1
+AT2G01950.1	signal	1	28				
+AT2G01950.1	outside	29	756				
+AT2G01950.1	TMhelix	757	777				
+AT2G01950.1	inside	778	1143				
+//
+# AT1G29720.1 Length: 1019
+# AT1G29720.1 Number of predicted TMRs: 1
+AT1G29720.1	signal	1	26				
+AT1G29720.1	outside	27	615				
+AT1G29720.1	TMhelix	616	636				
+AT1G29720.1	inside	637	1019				
+//
+# AT1G72460.1 Length: 644
+# AT1G72460.1 Number of predicted TMRs: 1
+AT1G72460.1	signal	1	21				
+AT1G72460.1	outside	22	251				
+AT1G72460.1	TMhelix	252	272				
+AT1G72460.1	inside	273	644				
+//
+# AT2G04300.2 Length: 892
+# AT2G04300.2 Number of predicted TMRs: 1
+AT2G04300.2	signal	1	26				
+AT2G04300.2	outside	27	523				
+AT2G04300.2	TMhelix	524	544				
+AT2G04300.2	inside	545	892				
+//
+# AT5G58150.1 Length: 785
+# AT5G58150.1 Number of predicted TMRs: 1
+AT5G58150.1	signal	1	21				
+AT5G58150.1	outside	22	438				
+AT5G58150.1	TMhelix	439	459				
+AT5G58150.1	inside	460	785				
+//
+# AT4G39270.1 Length: 864
+# AT4G39270.1 Number of predicted TMRs: 1
+AT4G39270.1	signal	1	25				
+AT4G39270.1	outside	26	416				
+AT4G39270.1	TMhelix	417	440				
+AT4G39270.1	inside	441	864				
+//
+# AT2G24230.1 Length: 853
+# AT2G24230.1 Number of predicted TMRs: 1
+AT2G24230.1	signal	1	23				
+AT2G24230.1	outside	24	455				
+AT2G24230.1	TMhelix	456	477				
+AT2G24230.1	inside	478	853				
+//
+# AT1G09970.2 Length: 977
+# AT1G09970.2 Number of predicted TMRs: 1
+AT1G09970.2	signal	1	28				
+AT1G09970.2	outside	29	608				
+AT1G09970.2	TMhelix	609	629				
+AT1G09970.2	inside	630	977				
+//
+# AT4G39400.1 Length: 1196
+# AT4G39400.1 Number of predicted TMRs: 1
+AT4G39400.1	signal	1	25				
+AT4G39400.1	outside	26	795				
+AT4G39400.1	TMhelix	796	814				
+AT4G39400.1	inside	815	1196				
+//
+# AT2G07040.1 Length: 647
+# AT2G07040.1 Number of predicted TMRs: 1
+AT2G07040.1	signal	1	21				
+AT2G07040.1	outside	22	248				
+AT2G07040.1	TMhelix	249	269				
+AT2G07040.1	inside	270	647				
+//
+# AT2G28960.2 Length: 880
+# AT2G28960.2 Number of predicted TMRs: 1
+AT2G28960.2	signal	1	24				
+AT2G28960.2	outside	25	508				
+AT2G28960.2	TMhelix	509	530				
+AT2G28960.2	inside	531	880				
+//
+# AT1G64210.1 Length: 587
+# AT1G64210.1 Number of predicted TMRs: 1
+AT1G64210.1	signal	1	19				
+AT1G64210.1	outside	20	232				
+AT1G64210.1	TMhelix	233	253				
+AT1G64210.1	inside	254	587				
+//
+# AT5G05160.1 Length: 640
+# AT5G05160.1 Number of predicted TMRs: 1
+AT5G05160.1	signal	1	27				
+AT5G05160.1	outside	28	266				
+AT5G05160.1	TMhelix	267	287				
+AT5G05160.1	inside	288	640				
+//
+# AT4G20940.1 Length: 1037
+# AT4G20940.1 Number of predicted TMRs: 1
+AT4G20940.1	outside	1	613				
+AT4G20940.1	TMhelix	614	634				
+AT4G20940.1	inside	635	1037				
+//
+# AT3G02880.1 Length: 627
+# AT3G02880.1 Number of predicted TMRs: 1
+AT3G02880.1	signal	1	24				
+AT3G02880.1	outside	25	256				
+AT3G02880.1	TMhelix	257	275				
+AT3G02880.1	inside	276	627				
+//
+# AT4G18640.1 Length: 678
+# AT4G18640.1 Number of predicted TMRs: 1
+AT4G18640.1	signal	1	25				
+AT4G18640.1	outside	26	323				
+AT4G18640.1	TMhelix	324	344				
+AT4G18640.1	inside	345	678				
+//
+# AT5G65240.2 Length: 640
+# AT5G65240.2 Number of predicted TMRs: 1
+AT5G65240.2	signal	1	20				
+AT5G65240.2	outside	21	219				
+AT5G65240.2	TMhelix	220	240				
+AT5G65240.2	inside	241	640				
+//
+# AT5G46330.2 Length: 1173
+# AT5G46330.2 Number of predicted TMRs: 1
+AT5G46330.2	signal	1	23				
+AT5G46330.2	outside	24	806				
+AT5G46330.2	TMhelix	807	827				
+AT5G46330.2	inside	828	1173				
+//
+# AT5G06820.1 Length: 735
+# AT5G06820.1 Number of predicted TMRs: 1
+AT5G06820.1	signal	1	23				
+AT5G06820.1	outside	24	296				
+AT5G06820.1	TMhelix	297	317				
+AT5G06820.1	inside	318	735				
+//
+# AT5G56040.2 Length: 1090
+# AT5G56040.2 Number of predicted TMRs: 1
+AT5G56040.2	signal	1	27				
+AT5G56040.2	outside	28	706				
+AT5G56040.2	TMhelix	707	716				
+AT5G56040.2	inside	717	1090				
+//
+# AT1G10850.1 Length: 663
+# AT1G10850.1 Number of predicted TMRs: 1
+AT1G10850.1	signal	1	32				
+AT1G10850.1	outside	33	258				
+AT1G10850.1	TMhelix	259	279				
+AT1G10850.1	inside	280	663				
+//
+# AT1G63430.2 Length: 688
+# AT1G63430.2 Number of predicted TMRs: 1
+AT1G63430.2	signal	1	22				
+AT1G63430.2	outside	23	288				
+AT1G63430.2	TMhelix	289	312				
+AT1G63430.2	inside	313	688				
+//
+# AT1G27190.1 Length: 601
+# AT1G27190.1 Number of predicted TMRs: 1
+AT1G27190.1	signal	1	21				
+AT1G27190.1	outside	22	220				
+AT1G27190.1	TMhelix	221	241				
+AT1G27190.1	inside	242	601				
+//
+# AT2G01210.1 Length: 716
+# AT2G01210.1 Number of predicted TMRs: 1
+AT2G01210.1	signal	1	20				
+AT2G01210.1	outside	21	320				
+AT2G01210.1	TMhelix	321	341				
+AT2G01210.1	inside	342	716				
+//
+# AT1G50610.1 Length: 686
+# AT1G50610.1 Number of predicted TMRs: 1
+AT1G50610.1	signal	1	39				
+AT1G50610.1	outside	40	284				
+AT1G50610.1	TMhelix	285	304				
+AT1G50610.1	inside	305	686				
+//
+# AT3G42880.1 Length: 633
+# AT3G42880.1 Number of predicted TMRs: 1
+AT3G42880.1	signal	1	21				
+AT3G42880.1	outside	22	251				
+AT3G42880.1	TMhelix	252	269				
+AT3G42880.1	inside	270	633				
+//
+# AT1G06840.1 Length: 953
+# AT1G06840.1 Number of predicted TMRs: 1
+AT1G06840.1	signal	1	28				
+AT1G06840.1	outside	29	563				
+AT1G06840.1	TMhelix	564	584				
+AT1G06840.1	inside	585	953				
+//
+# AT1G53730.2 Length: 720
+# AT1G53730.2 Number of predicted TMRs: 1
+AT1G53730.2	signal	1	25				
+AT1G53730.2	outside	26	296				
+AT1G53730.2	TMhelix	297	313				
+AT1G53730.2	inside	314	720				
+//
+# AT1G72300.1 Length: 1095
+# AT1G72300.1 Number of predicted TMRs: 1
+AT1G72300.1	signal	1	46				
+AT1G72300.1	outside	47	724				
+AT1G72300.1	TMhelix	725	740				
+AT1G72300.1	inside	741	1095				
+//
+# AT2G01820.1 Length: 943
+# AT2G01820.1 Number of predicted TMRs: 1
+AT2G01820.1	signal	1	24				
+AT2G01820.1	outside	25	482				
+AT2G01820.1	TMhelix	483	504				
+AT2G01820.1	inside	505	943				
+//
+# AT5G24100.1 Length: 614
+# AT5G24100.1 Number of predicted TMRs: 1
+AT5G24100.1	signal	1	24				
+AT5G24100.1	outside	25	251				
+AT5G24100.1	TMhelix	252	273				
+AT5G24100.1	inside	274	614				
+//
+# AT4G20450.1 Length: 898
+# AT4G20450.1 Number of predicted TMRs: 1
+AT4G20450.1	signal	1	24				
+AT4G20450.1	outside	25	538				
+AT4G20450.1	TMhelix	539	559				
+AT4G20450.1	inside	560	898				
+//
+# AT5G53320.1 Length: 601
+# AT5G53320.1 Number of predicted TMRs: 1
+AT5G53320.1	signal	1	20				
+AT5G53320.1	outside	21	238				
+AT5G53320.1	TMhelix	239	259				
+AT5G53320.1	inside	260	601				
+//
+# AT2G19190.1 Length: 876
+# AT2G19190.1 Number of predicted TMRs: 1
+AT2G19190.1	signal	1	24				
+AT2G19190.1	outside	25	517				
+AT2G19190.1	TMhelix	518	538				
+AT2G19190.1	inside	539	876				
+//
+# AT5G59670.2 Length: 868
+# AT5G59670.2 Number of predicted TMRs: 1
+AT5G59670.2	signal	1	22				
+AT5G59670.2	outside	23	502				
+AT5G59670.2	TMhelix	503	522				
+AT5G59670.2	inside	523	868				
+//
+# AT5G45780.1 Length: 614
+# AT5G45780.1 Number of predicted TMRs: 1
+AT5G45780.1	signal	1	26				
+AT5G45780.1	outside	27	239				
+AT5G45780.1	TMhelix	240	260				
+AT5G45780.1	inside	261	614				
+//
+# AT4G28490.1 Length: 999
+# AT4G28490.1 Number of predicted TMRs: 1
+AT4G28490.1	signal	1	20				
+AT4G28490.1	outside	21	626				
+AT4G28490.1	TMhelix	627	647				
+AT4G28490.1	inside	648	999				
+//
+# AT3G24240.1 Length: 1141
+# AT3G24240.1 Number of predicted TMRs: 1
+AT3G24240.1	signal	1	33				
+AT3G24240.1	outside	34	725				
+AT3G24240.1	TMhelix	726	747				
+AT3G24240.1	inside	748	1141				
+//
+# AT5G16000.1 Length: 638
+# AT5G16000.1 Number of predicted TMRs: 1
+AT5G16000.1	signal	1	31				
+AT5G16000.1	outside	32	254				
+AT5G16000.1	TMhelix	255	271				
+AT5G16000.1	inside	272	638				
+//
+# AT4G29990.1 Length: 876
+# AT4G29990.1 Number of predicted TMRs: 1
+AT4G29990.1	signal	1	21				
+AT4G29990.1	outside	22	512				
+AT4G29990.1	TMhelix	513	533				
+AT4G29990.1	inside	534	876				
+//
+# AT3G51740.1 Length: 836
+# AT3G51740.1 Number of predicted TMRs: 1
+AT3G51740.1	signal	1	35				
+AT3G51740.1	outside	36	458				
+AT3G51740.1	TMhelix	459	479				
+AT3G51740.1	inside	480	836				
+//
+# AT1G56145.2 Length: 1039
+# AT1G56145.2 Number of predicted TMRs: 1
+AT1G56145.2	signal	1	24				
+AT1G56145.2	outside	25	630				
+AT1G56145.2	TMhelix	631	652				
+AT1G56145.2	inside	653	1039				
+//
+# AT3G47090.1 Length: 1009
+# AT3G47090.1 Number of predicted TMRs: 1
+AT3G47090.1	signal	1	19				
+AT3G47090.1	outside	20	642				
+AT3G47090.1	TMhelix	643	663				
+AT3G47090.1	inside	664	1009				
+//
+# AT1G07550.1 Length: 864
+# AT1G07550.1 Number of predicted TMRs: 1
+AT1G07550.1	signal	1	23				
+AT1G07550.1	outside	24	507				
+AT1G07550.1	TMhelix	508	528				
+AT1G07550.1	inside	529	864				
+//
+# AT3G46340.1 Length: 889
+# AT3G46340.1 Number of predicted TMRs: 1
+AT3G46340.1	signal	1	25				
+AT3G46340.1	outside	26	514				
+AT3G46340.1	TMhelix	515	535				
+AT3G46340.1	inside	536	889				
+//
+# AT4G23740.2 Length: 638
+# AT4G23740.2 Number of predicted TMRs: 1
+AT4G23740.2	signal	1	24				
+AT4G23740.2	outside	25	257				
+AT4G23740.2	TMhelix	258	278				
+AT4G23740.2	inside	279	638				
+//
+# AT1G51810.1 Length: 744
+# AT1G51810.1 Number of predicted TMRs: 1
+AT1G51810.1	outside	1	385				
+AT1G51810.1	TMhelix	386	406				
+AT1G51810.1	inside	407	744				
+//
+# AT4G26540.1 Length: 1091
+# AT4G26540.1 Number of predicted TMRs: 1
+AT4G26540.1	signal	1	24				
+AT4G26540.1	outside	25	699				
+AT4G26540.1	TMhelix	700	720				
+AT4G26540.1	inside	721	1091				
+//
+# AT3G24660.1 Length: 674
+# AT3G24660.1 Number of predicted TMRs: 1
+AT3G24660.1	signal	1	23				
+AT3G24660.1	outside	24	300				
+AT3G24660.1	TMhelix	301	321				
+AT3G24660.1	inside	322	674				
+//
+# AT3G57830.3 Length: 662
+# AT3G57830.3 Number of predicted TMRs: 1
+AT3G57830.3	signal	1	24				
+AT3G57830.3	outside	25	276				
+AT3G57830.3	TMhelix	277	297				
+AT3G57830.3	inside	298	662				
+//
+# AT5G63710.3 Length: 615
+# AT5G63710.3 Number of predicted TMRs: 1
+AT5G63710.3	signal	1	47				
+AT5G63710.3	outside	48	225				
+AT5G63710.3	TMhelix	226	246				
+AT5G63710.3	inside	247	615				
+//
+# AT5G59660.3 Length: 855
+# AT5G59660.3 Number of predicted TMRs: 1
+AT5G59660.3	signal	1	35				
+AT5G59660.3	outside	36	450				
+AT5G59660.3	TMhelix	451	471				
+AT5G59660.3	inside	472	855				
+//
+# AT2G13800.3 Length: 601
+# AT2G13800.3 Number of predicted TMRs: 1
+AT2G13800.3	signal	1	24				
+AT2G13800.3	outside	25	215				
+AT2G13800.3	TMhelix	216	236				
+AT2G13800.3	inside	237	601				
+//
+# AT5G49780.2 Length: 978
+# AT5G49780.2 Number of predicted TMRs: 1
+AT5G49780.2	signal	1	23				
+AT5G49780.2	outside	24	561				
+AT5G49780.2	TMhelix	562	584				
+AT5G49780.2	inside	585	978				
+//
+# AT5G20690.1 Length: 659
+# AT5G20690.1 Number of predicted TMRs: 1
+AT5G20690.1	signal	1	26				
+AT5G20690.1	outside	27	266				
+AT5G20690.1	TMhelix	267	287				
+AT5G20690.1	inside	288	659				
+//
+# AT1G31420.3 Length: 592
+# AT1G31420.3 Number of predicted TMRs: 1
+AT1G31420.3	signal	1	29				
+AT1G31420.3	outside	30	239				
+AT1G31420.3	TMhelix	240	260				
+AT1G31420.3	inside	261	592				
+//
+# AT5G67200.1 Length: 669
+# AT5G67200.1 Number of predicted TMRs: 1
+AT5G67200.1	signal	1	21				
+AT5G67200.1	outside	22	282				
+AT5G67200.1	TMhelix	283	304				
+AT5G67200.1	inside	305	669				
+//
+# AT4G36180.1 Length: 1136
+# AT4G36180.1 Number of predicted TMRs: 1
+AT4G36180.1	signal	1	22				
+AT4G36180.1	outside	23	752				
+AT4G36180.1	TMhelix	753	774				
+AT4G36180.1	inside	775	1136				
+//
+# AT1G60800.1 Length: 632
+# AT1G60800.1 Number of predicted TMRs: 1
+AT1G60800.1	signal	1	25				
+AT1G60800.1	outside	26	237				
+AT1G60800.1	TMhelix	238	258				
+AT1G60800.1	inside	259	632				
+//
+# AT3G49670.1 Length: 1002
+# AT3G49670.1 Number of predicted TMRs: 1
+AT3G49670.1	signal	1	18				
+AT3G49670.1	outside	19	637				
+AT3G49670.1	TMhelix	638	657				
+AT3G49670.1	inside	658	1002				
+//
+# AT2G27060.1 Length: 1020
+# AT2G27060.1 Number of predicted TMRs: 1
+AT2G27060.1	signal	1	20				
+AT2G27060.1	outside	21	565				
+AT2G27060.1	TMhelix	566	586				
+AT2G27060.1	inside	587	1020				
+//
+# AT1G51830.2 Length: 700
+# AT1G51830.2 Number of predicted TMRs: 1
+AT1G51830.2	outside	1	326				
+AT1G51830.2	TMhelix	327	347				
+AT1G51830.2	inside	348	700				
+//
+# AT5G61480.1 Length: 1041
+# AT5G61480.1 Number of predicted TMRs: 1
+AT5G61480.1	signal	1	29				
+AT5G61480.1	outside	30	653				
+AT5G61480.1	TMhelix	654	674				
+AT5G61480.1	inside	675	1041				
+//
+# AT5G01890.1 Length: 967
+# AT5G01890.1 Number of predicted TMRs: 1
+AT5G01890.1	signal	1	20				
+AT5G01890.1	outside	21	609				
+AT5G01890.1	TMhelix	610	630				
+AT5G01890.1	inside	631	967				
+//
+# AT1G69990.1 Length: 591
+# AT1G69990.1 Number of predicted TMRs: 1
+AT1G69990.1	signal	1	18				
+AT1G69990.1	outside	19	213				
+AT1G69990.1	TMhelix	214	234				
+AT1G69990.1	inside	235	591				
+//
+# AT1G75820.1 Length: 980
+# AT1G75820.1 Number of predicted TMRs: 1
+AT1G75820.1	signal	1	24				
+AT1G75820.1	outside	25	640				
+AT1G75820.1	TMhelix	641	659				
+AT1G75820.1	inside	660	980				
+//
+# AT5G07280.1 Length: 1192
+# AT5G07280.1 Number of predicted TMRs: 1
+AT5G07280.1	signal	1	18				
+AT5G07280.1	outside	19	832				
+AT5G07280.1	TMhelix	833	848				
+AT5G07280.1	inside	849	1192				
+//
+# AT5G63930.1 Length: 1102
+# AT5G63930.1 Number of predicted TMRs: 1
+AT5G63930.1	signal	1	26				
+AT5G63930.1	outside	27	737				
+AT5G63930.1	TMhelix	738	758				
+AT5G63930.1	inside	759	1102				
+//
+# AT1G25320.1 Length: 702
+# AT1G25320.1 Number of predicted TMRs: 1
+AT1G25320.1	signal	1	22				
+AT1G25320.1	outside	23	317				
+AT1G25320.1	TMhelix	318	338				
+AT1G25320.1	inside	339	702				
+//
+# AT1G49100.1 Length: 888
+# AT1G49100.1 Number of predicted TMRs: 1
+AT1G49100.1	signal	1	24				
+AT1G49100.1	outside	25	517				
+AT1G49100.1	TMhelix	518	539				
+AT1G49100.1	inside	540	888				
+//
+# AT5G10020.1 Length: 1048
+# AT5G10020.1 Number of predicted TMRs: 1
+AT5G10020.1	signal	1	21				
+AT5G10020.1	outside	22	601				
+AT5G10020.1	TMhelix	602	622				
+AT5G10020.1	inside	623	1048				
+//
+# AT1G69270.1 Length: 540
+# AT1G69270.1 Number of predicted TMRs: 1
+AT1G69270.1	signal	1	19				
+AT1G69270.1	outside	20	198				
+AT1G69270.1	TMhelix	199	220				
+AT1G69270.1	inside	221	540				
+//
+# AT5G06940.1 Length: 872
+# AT5G06940.1 Number of predicted TMRs: 1
+AT5G06940.1	signal	1	26				
+AT5G06940.1	outside	27	540				
+AT5G06940.1	TMhelix	541	561				
+AT5G06940.1	inside	562	872				
+//
+# AT5G16590.1 Length: 625
+# AT5G16590.1 Number of predicted TMRs: 1
+AT5G16590.1	signal	1	23				
+AT5G16590.1	outside	24	246				
+AT5G16590.1	TMhelix	247	267				
+AT5G16590.1	inside	268	625				
+//
+# AT5G44700.1 Length: 1252
+# AT5G44700.1 Number of predicted TMRs: 1
+AT5G44700.1	signal	1	22				
+AT5G44700.1	outside	23	874				
+AT5G44700.1	TMhelix	875	895				
+AT5G44700.1	inside	896	1252				
+//
+# AT1G51890.2 Length: 898
+# AT1G51890.2 Number of predicted TMRs: 1
+AT1G51890.2	signal	1	19				
+AT1G51890.2	outside	20	500				
+AT1G51890.2	TMhelix	501	521				
+AT1G51890.2	inside	522	898				
+//
+# AT3G13065.1 Length: 687
+# AT3G13065.1 Number of predicted TMRs: 1
+AT3G13065.1	signal	1	25				
+AT3G13065.1	outside	26	278				
+AT3G13065.1	TMhelix	279	299				
+AT3G13065.1	inside	300	687				
+//
+# AT1G62950.1 Length: 890
+# AT1G62950.1 Number of predicted TMRs: 1
+AT1G62950.1	signal	1	24				
+AT1G62950.1	outside	25	517				
+AT1G62950.1	TMhelix	518	538				
+AT1G62950.1	inside	539	890				
+//
+# AT3G50230.2 Length: 672
+# AT3G50230.2 Number of predicted TMRs: 1
+AT3G50230.2	signal	1	33				
+AT3G50230.2	outside	34	303				
+AT3G50230.2	TMhelix	304	325				
+AT3G50230.2	inside	326	672				
+//
+# AT5G35390.1 Length: 662
+# AT5G35390.1 Number of predicted TMRs: 1
+AT5G35390.1	signal	1	31				
+AT5G35390.1	outside	32	256				
+AT5G35390.1	TMhelix	257	277				
+AT5G35390.1	inside	278	662				
+//
+# AT3G46370.2 Length: 793
+# AT3G46370.2 Number of predicted TMRs: 1
+AT3G46370.2	outside	1	428				
+AT3G46370.2	TMhelix	429	450				
+AT3G46370.2	inside	451	793				
+//
+# AT1G34110.1 Length: 1072
+# AT1G34110.1 Number of predicted TMRs: 1
+AT1G34110.1	signal	1	26				
+AT1G34110.1	outside	27	709				
+AT1G34110.1	TMhelix	710	719				
+AT1G34110.1	inside	720	1072				
+//
+# AT2G19230.1 Length: 1025
+# AT2G19230.1 Number of predicted TMRs: 1
+AT2G19230.1	signal	1	24				
+AT2G19230.1	outside	25	517				
+AT2G19230.1	TMhelix	518	538				
+AT2G19230.1	inside	539	1025				
+//
+# AT3G23750.1 Length: 928
+# AT3G23750.1 Number of predicted TMRs: 1
+AT3G23750.1	signal	1	24				
+AT3G23750.1	outside	25	478				
+AT3G23750.1	TMhelix	479	495				
+AT3G23750.1	inside	496	928				
+//
+# AT2G31880.1 Length: 641
+# AT2G31880.1 Number of predicted TMRs: 1
+AT2G31880.1	signal	1	31				
+AT2G31880.1	outside	32	287				
+AT2G31880.1	TMhelix	288	308				
+AT2G31880.1	inside	309	641				
+//
+# AT1G72180.1 Length: 977
+# AT1G72180.1 Number of predicted TMRs: 1
+AT1G72180.1	signal	1	31				
+AT1G72180.1	outside	32	619				
+AT1G72180.1	TMhelix	620	640				
+AT1G72180.1	inside	641	977				
+//
+# AT5G53890.1 Length: 1036
+# AT5G53890.1 Number of predicted TMRs: 1
+AT5G53890.1	signal	1	16				
+AT5G53890.1	outside	17	679				
+AT5G53890.1	TMhelix	680	700				
+AT5G53890.1	inside	701	1036				
+//
+# AT3G28450.1 Length: 605
+# AT3G28450.1 Number of predicted TMRs: 1
+AT3G28450.1	signal	1	28				
+AT3G28450.1	outside	29	229				
+AT3G28450.1	TMhelix	230	250				
+AT3G28450.1	inside	251	605				
+//
+# AT5G37450.2 Length: 983
+# AT5G37450.2 Number of predicted TMRs: 1
+AT5G37450.2	signal	1	24				
+AT5G37450.2	outside	25	589				
+AT5G37450.2	TMhelix	590	610				
+AT5G37450.2	inside	611	983				
+//
+# AT1G12460.1 Length: 882
+# AT1G12460.1 Number of predicted TMRs: 1
+AT1G12460.1	signal	1	21				
+AT1G12460.1	outside	22	515				
+AT1G12460.1	TMhelix	516	536				
+AT1G12460.1	inside	537	882				
+//
+# AT3G13380.1 Length: 1164
+# AT3G13380.1 Number of predicted TMRs: 1
+AT3G13380.1	signal	1	23				
+AT3G13380.1	outside	24	780				
+AT3G13380.1	TMhelix	781	796				
+AT3G13380.1	inside	797	1164				
+//
+# AT5G58300.3 Length: 654
+# AT5G58300.3 Number of predicted TMRs: 1
+AT5G58300.3	signal	1	43				
+AT5G58300.3	outside	44	281				
+AT5G58300.3	TMhelix	282	302				
+AT5G58300.3	inside	303	654				
+//
+# AT3G08680.2 Length: 640
+# AT3G08680.2 Number of predicted TMRs: 1
+AT3G08680.2	signal	1	22				
+AT3G08680.2	outside	23	261				
+AT3G08680.2	TMhelix	262	282				
+AT3G08680.2	inside	283	640				
+//
+# AT1G34210.2 Length: 628
+# AT1G34210.2 Number of predicted TMRs: 1
+AT1G34210.2	signal	1	29				
+AT1G34210.2	outside	30	242				
+AT1G34210.2	TMhelix	243	263				
+AT1G34210.2	inside	264	628				
+//
+# AT1G51820.1 Length: 885
+# AT1G51820.1 Number of predicted TMRs: 1
+AT1G51820.1	signal	1	20				
+AT1G51820.1	outside	21	509				
+AT1G51820.1	TMhelix	510	530				
+AT1G51820.1	inside	531	885				
+//
+# AT1G56140.1 Length: 1033
+# AT1G56140.1 Number of predicted TMRs: 1
+AT1G56140.1	signal	1	28				
+AT1G56140.1	outside	29	636				
+AT1G56140.1	TMhelix	637	658				
+AT1G56140.1	inside	659	1033				
+//
+# AT1G53440.1 Length: 1035
+# AT1G53440.1 Number of predicted TMRs: 1
+AT1G53440.1	signal	1	26				
+AT1G53440.1	outside	27	607				
+AT1G53440.1	TMhelix	608	628				
+AT1G53440.1	inside	629	1035				
+//
+# AT5G49760.1 Length: 953
+# AT5G49760.1 Number of predicted TMRs: 1
+AT5G49760.1	signal	1	23				
+AT5G49760.1	outside	24	558				
+AT5G49760.1	TMhelix	559	579				
+AT5G49760.1	inside	580	953				
+//
+# AT1G60630.1 Length: 652
+# AT1G60630.1 Number of predicted TMRs: 1
+AT1G60630.1	signal	1	23				
+AT1G60630.1	outside	24	251				
+AT1G60630.1	TMhelix	252	273				
+AT1G60630.1	inside	274	652				
+//
+# AT2G23300.1 Length: 773
+# AT2G23300.1 Number of predicted TMRs: 1
+AT2G23300.1	signal	1	30				
+AT2G23300.1	outside	31	333				
+AT2G23300.1	TMhelix	334	355				
+AT2G23300.1	inside	356	773				
+//
+# AT4G37250.1 Length: 768
+# AT4G37250.1 Number of predicted TMRs: 1
+AT4G37250.1	signal	1	21				
+AT4G37250.1	outside	22	329				
+AT4G37250.1	TMhelix	330	351				
+AT4G37250.1	inside	352	768				
+//
+# AT2G23950.1 Length: 634
+# AT2G23950.1 Number of predicted TMRs: 1
+AT2G23950.1	signal	1	27				
+AT2G23950.1	outside	28	236				
+AT2G23950.1	TMhelix	237	257				
+AT2G23950.1	inside	258	634				
+//
+# AT1G29750.2 Length: 1021
+# AT1G29750.2 Number of predicted TMRs: 1
+AT1G29750.2	signal	1	39				
+AT1G29750.2	outside	40	625				
+AT1G29750.2	TMhelix	626	645				
+AT1G29750.2	inside	646	1021				
+//
+# AT1G66150.1 Length: 942
+# AT1G66150.1 Number of predicted TMRs: 1
+AT1G66150.1	signal	1	23				
+AT1G66150.1	outside	24	482				
+AT1G66150.1	TMhelix	483	503				
+AT1G66150.1	inside	504	942				
+//
+# AT1G67720.1 Length: 929
+# AT1G67720.1 Number of predicted TMRs: 1
+AT1G67720.1	signal	1	21				
+AT1G67720.1	outside	22	531				
+AT1G67720.1	TMhelix	532	553				
+AT1G67720.1	inside	554	929				
+//
+# AT3G47580.1 Length: 1011
+# AT3G47580.1 Number of predicted TMRs: 1
+AT3G47580.1	signal	1	19				
+AT3G47580.1	outside	20	642				
+AT3G47580.1	TMhelix	643	664				
+AT3G47580.1	inside	665	1011				
+//
+# AT5G62710.1 Length: 604
+# AT5G62710.1 Number of predicted TMRs: 1
+AT5G62710.1	signal	1	23				
+AT5G62710.1	outside	24	240				
+AT5G62710.1	TMhelix	241	262				
+AT5G62710.1	inside	263	604				
+//
+# AT4G34220.1 Length: 757
+# AT4G34220.1 Number of predicted TMRs: 1
+AT4G34220.1	signal	1	26				
+AT4G34220.1	outside	27	340				
+AT4G34220.1	TMhelix	341	361				
+AT4G34220.1	inside	362	757				
+//
+# AT3G05370.1 Length: 860
+# AT3G05370.1 Number of predicted TMRs: 1
+AT3G05370.1	signal	1	23				
+AT3G05370.1	outside	24	809				
+AT3G05370.1	TMhelix	810	830				
+AT3G05370.1	inside	831	860				
+//
+# AT5G27060.2 Length: 958
+# AT5G27060.2 Number of predicted TMRs: 1
+AT5G27060.2	signal	1	31				
+AT5G27060.2	outside	32	911				
+AT5G27060.2	TMhelix	912	932				
+AT5G27060.2	inside	933	958				
+//
+# AT2G25440.1 Length: 671
+# AT2G25440.1 Number of predicted TMRs: 1
+AT2G25440.1	signal	1	30				
+AT2G25440.1	outside	31	632				
+AT2G25440.1	TMhelix	633	653				
+AT2G25440.1	inside	654	671				
+//
+# AT1G34290.1 Length: 266
+# AT1G34290.1 Number of predicted TMRs: 1
+AT1G34290.1	signal	1	26				
+AT1G34290.1	outside	27	169				
+AT1G34290.1	TMhelix	170	190				
+AT1G34290.1	inside	191	266				
+//
+# AT1G47890.1 Length: 1019
+# AT1G47890.1 Number of predicted TMRs: 2
+AT1G47890.1	inside	1	54				
+AT1G47890.1	TMhelix	55	64				
+AT1G47890.1	outside	65	975				
+AT1G47890.1	TMhelix	976	997				
+AT1G47890.1	inside	998	1019				
+//
+# AT4G18760.1 Length: 431
+# AT4G18760.1 Number of predicted TMRs: 1
+AT4G18760.1	signal	1	21				
+AT4G18760.1	outside	22	404				
+AT4G18760.1	TMhelix	405	427				
+AT4G18760.1	inside	428	431				
+//
+# AT2G32680.1 Length: 890
+# AT2G32680.1 Number of predicted TMRs: 1
+AT2G32680.1	signal	1	22				
+AT2G32680.1	outside	23	850				
+AT2G32680.1	TMhelix	851	871				
+AT2G32680.1	inside	872	890				
+//
+# AT5G25910.1 Length: 811
+# AT5G25910.1 Number of predicted TMRs: 1
+AT5G25910.1	signal	1	22				
+AT5G25910.1	outside	23	769				
+AT5G25910.1	TMhelix	770	791				
+AT5G25910.1	inside	792	811				
+//
+# AT3G53240.2 Length: 927
+# AT3G53240.2 Number of predicted TMRs: 1
+AT3G53240.2	outside	1	876				
+AT3G53240.2	TMhelix	877	901				
+AT3G53240.2	inside	902	927				
+//
+# AT1G65380.1 Length: 720
+# AT1G65380.1 Number of predicted TMRs: 1
+AT1G65380.1	signal	1	25				
+AT1G65380.1	outside	26	686				
+AT1G65380.1	TMhelix	687	707				
+AT1G65380.1	inside	708	720				
+//
+# AT3G25010.2 Length: 912
+# AT3G25010.2 Number of predicted TMRs: 1
+AT3G25010.2	signal	1	55				
+AT3G25010.2	outside	56	874				
+AT3G25010.2	TMhelix	875	895				
+AT3G25010.2	inside	896	912				
+//
+# AT3G28890.2 Length: 711
+# AT3G28890.2 Number of predicted TMRs: 1
+AT3G28890.2	signal	1	30				
+AT3G28890.2	outside	31	664				
+AT3G28890.2	TMhelix	665	685				
+AT3G28890.2	inside	686	711				
+//
+# AT2G33050.1 Length: 800
+# AT2G33050.1 Number of predicted TMRs: 1
+AT2G33050.1	signal	1	25				
+AT2G33050.1	outside	26	733				
+AT2G33050.1	TMhelix	734	754				
+AT2G33050.1	inside	755	800				
+//
+# AT3G24900.2 Length: 915
+# AT3G24900.2 Number of predicted TMRs: 1
+AT3G24900.2	signal	1	55				
+AT3G24900.2	outside	56	878				
+AT3G24900.2	TMhelix	879	898				
+AT3G24900.2	inside	899	915				
+//
+# AT3G23010.1 Length: 595
+# AT3G23010.1 Number of predicted TMRs: 1
+AT3G23010.1	outside	1	571				
+AT3G23010.1	TMhelix	572	594				
+AT3G23010.1	inside	595	595				
+//
+# AT5G49290.2 Length: 947
+# AT5G49290.2 Number of predicted TMRs: 1
+AT5G49290.2	signal	1	26				
+AT5G49290.2	outside	27	898				
+AT5G49290.2	TMhelix	899	923				
+AT5G49290.2	inside	924	947				
+//
+# AT5G51350.1 Length: 895
+# AT5G51350.1 Number of predicted TMRs: 1
+AT5G51350.1	signal	1	24				
+AT5G51350.1	outside	25	589				
+AT5G51350.1	TMhelix	590	610				
+AT5G51350.1	inside	611	895				
+//
+# AT1G74170.2 Length: 1068
+# AT1G74170.2 Number of predicted TMRs: 1
+AT1G74170.2	signal	1	26				
+AT1G74170.2	outside	27	987				
+AT1G74170.2	TMhelix	988	1005				
+AT1G74170.2	inside	1006	1068				
+//
+# AT1G45616.1 Length: 994
+# AT1G45616.1 Number of predicted TMRs: 1
+AT1G45616.1	signal	1	29				
+AT1G45616.1	outside	30	950				
+AT1G45616.1	TMhelix	951	971				
+AT1G45616.1	inside	972	994				
+//
+# AT1G07390.3 Length: 1083
+# AT1G07390.3 Number of predicted TMRs: 1
+AT1G07390.3	outside	1	1030				
+AT1G07390.3	TMhelix	1031	1054				
+AT1G07390.3	inside	1055	1083				
+//
+# AT2G33060.1 Length: 808
+# AT2G33060.1 Number of predicted TMRs: 1
+AT2G33060.1	signal	1	31				
+AT2G33060.1	outside	32	740				
+AT2G33060.1	TMhelix	741	761				
+AT2G33060.1	inside	762	808				
+//
+# AT3G05360.1 Length: 786
+# AT3G05360.1 Number of predicted TMRs: 1
+AT3G05360.1	signal	1	30				
+AT3G05360.1	outside	31	738				
+AT3G05360.1	TMhelix	739	761				
+AT3G05360.1	inside	762	786				
+//
+# AT3G23110.1 Length: 835
+# AT3G23110.1 Number of predicted TMRs: 1
+AT3G23110.1	signal	1	30				
+AT3G23110.1	outside	31	790				
+AT3G23110.1	TMhelix	791	811				
+AT3G23110.1	inside	812	835				
+//
+# AT1G17240.2 Length: 734
+# AT1G17240.2 Number of predicted TMRs: 1
+AT1G17240.2	signal	1	49				
+AT1G17240.2	outside	50	712				
+AT1G17240.2	TMhelix	713	733				
+AT1G17240.2	inside	734	734				
+//
+# AT4G13810.2 Length: 706
+# AT4G13810.2 Number of predicted TMRs: 1
+AT4G13810.2	signal	1	31				
+AT4G13810.2	outside	32	669				
+AT4G13810.2	TMhelix	670	690				
+AT4G13810.2	inside	691	706				
+//
+# AT1G80080.1 Length: 496
+# AT1G80080.1 Number of predicted TMRs: 0
+AT1G80080.1	signal	1	23				
+AT1G80080.1	outside	24	496				
+//
+# AT3G05650.1 Length: 868
+# AT3G05650.1 Number of predicted TMRs: 1
+AT3G05650.1	signal	1	32				
+AT3G05650.1	outside	33	819				
+AT3G05650.1	TMhelix	820	840				
+AT3G05650.1	inside	841	868				
+//
+# AT3G23120.1 Length: 784
+# AT3G23120.1 Number of predicted TMRs: 1
+AT3G23120.1	signal	1	30				
+AT3G23120.1	outside	31	752				
+AT3G23120.1	TMhelix	753	773				
+AT3G23120.1	inside	774	784				
+//
+# AT4G13920.1 Length: 891
+# AT4G13920.1 Number of predicted TMRs: 1
+AT4G13920.1	signal	1	22				
+AT4G13920.1	outside	23	849				
+AT4G13920.1	TMhelix	850	870				
+AT4G13920.1	inside	871	891				
+//
+# AT1G74180.1 Length: 976
+# AT1G74180.1 Number of predicted TMRs: 1
+AT1G74180.1	signal	1	26				
+AT1G74180.1	outside	27	927				
+AT1G74180.1	TMhelix	928	952				
+AT1G74180.1	inside	953	976				
+//
+# AT5G40170.1 Length: 792
+# AT5G40170.1 Number of predicted TMRs: 1
+AT5G40170.1	signal	1	23				
+AT5G40170.1	outside	24	758				
+AT5G40170.1	TMhelix	759	779				
+AT5G40170.1	inside	780	792				
+//
+# AT2G33020.1 Length: 864
+# AT2G33020.1 Number of predicted TMRs: 1
+AT2G33020.1	signal	1	27				
+AT2G33020.1	outside	28	830				
+AT2G33020.1	TMhelix	831	850				
+AT2G33020.1	inside	851	864				
+//
+# AT3G05660.1 Length: 875
+# AT3G05660.1 Number of predicted TMRs: 1
+AT3G05660.1	signal	1	23				
+AT3G05660.1	outside	24	826				
+AT3G05660.1	TMhelix	827	847				
+AT3G05660.1	inside	848	875				
+//
+# AT5G65830.1 Length: 279
+# AT5G65830.1 Number of predicted TMRs: 1
+AT5G65830.1	signal	1	31				
+AT5G65830.1	outside	32	237				
+AT5G65830.1	TMhelix	238	257				
+AT5G65830.1	inside	258	279				
+//
+# AT3G11010.2 Length: 957
+# AT3G11010.2 Number of predicted TMRs: 1
+AT3G11010.2	signal	1	31				
+AT3G11010.2	outside	32	910				
+AT3G11010.2	TMhelix	911	931				
+AT3G11010.2	inside	932	957				
+//
+# AT1G71400.1 Length: 847
+# AT1G71400.1 Number of predicted TMRs: 1
+AT1G71400.1	signal	1	27				
+AT1G71400.1	outside	28	799				
+AT1G71400.1	TMhelix	800	820				
+AT1G71400.1	inside	821	847				
+//
+# AT2G15080.2 Length: 983
+# AT2G15080.2 Number of predicted TMRs: 1
+AT2G15080.2	signal	1	24				
+AT2G15080.2	outside	25	937				
+AT2G15080.2	TMhelix	938	959				
+AT2G15080.2	inside	960	983				
+//
+# AT4G13880.1 Length: 725
+# AT4G13880.1 Number of predicted TMRs: 1
+AT4G13880.1	signal	1	30				
+AT4G13880.1	outside	31	702				
+AT4G13880.1	TMhelix	703	723				
+AT4G13880.1	inside	724	725				
+//
+# AT3G24982.1 Length: 915
+# AT3G24982.1 Number of predicted TMRs: 1
+AT3G24982.1	signal	1	55				
+AT3G24982.1	outside	56	876				
+AT3G24982.1	TMhelix	877	897				
+AT3G24982.1	inside	898	915				
+//
+# AT5G45840.1 Length: 706
+# AT5G45840.1 Number of predicted TMRs: 1
+AT5G45840.1	signal	1	29				
+AT5G45840.1	outside	30	351				
+AT5G45840.1	TMhelix	352	372				
+AT5G45840.1	inside	373	706				
+//
+# AT1G58190.2 Length: 1029
+# AT1G58190.2 Number of predicted TMRs: 1
+AT1G58190.2	signal	1	27				
+AT1G58190.2	outside	28	982				
+AT1G58190.2	TMhelix	983	1007				
+AT1G58190.2	inside	1008	1029				
+//
+# AT1G74190.1 Length: 965
+# AT1G74190.1 Number of predicted TMRs: 1
+AT1G74190.1	signal	1	26				
+AT1G74190.1	outside	27	916				
+AT1G74190.1	TMhelix	917	941				
+AT1G74190.1	inside	942	965				
+//
+# AT1G17250.1 Length: 756
+# AT1G17250.1 Number of predicted TMRs: 1
+AT1G17250.1	signal	1	50				
+AT1G17250.1	outside	51	725				
+AT1G17250.1	TMhelix	726	738				
+AT1G17250.1	inside	739	756				
+//
+# AT1G71390.2 Length: 789
+# AT1G71390.2 Number of predicted TMRs: 1
+AT1G71390.2	signal	1	30				
+AT1G71390.2	outside	31	744				
+AT1G71390.2	TMhelix	745	765				
+AT1G71390.2	inside	766	789				
+//
+# AT1G28340.1 Length: 626
+# AT1G28340.1 Number of predicted TMRs: 1
+AT1G28340.1	signal	1	22				
+AT1G28340.1	outside	23	549				
+AT1G28340.1	TMhelix	550	570				
+AT1G28340.1	inside	571	626				
+//
+# AT3G49750.1 Length: 274
+# AT3G49750.1 Number of predicted TMRs: 1
+AT3G49750.1	signal	1	24				
+AT3G49750.1	outside	25	229				
+AT3G49750.1	TMhelix	230	251				
+AT3G49750.1	inside	252	274				
+//
+# AT3G11080.2 Length: 943
+# AT3G11080.2 Number of predicted TMRs: 1
+AT3G11080.2	signal	1	31				
+AT3G11080.2	outside	32	897				
+AT3G11080.2	TMhelix	898	918				
+AT3G11080.2	inside	919	943				
+//
+# AT2G25470.3 Length: 978
+# AT2G25470.3 Number of predicted TMRs: 1
+AT2G25470.3	signal	1	30				
+AT2G25470.3	outside	31	931				
+AT2G25470.3	TMhelix	932	952				
+AT2G25470.3	inside	953	978				
+//
+# AT3G21630.1 Length: 617
+# AT3G21630.1 Number of predicted TMRs: 1
+AT3G21630.1	signal	1	23				
+AT3G21630.1	outside	24	237				
+AT3G21630.1	TMhelix	238	256				
+AT3G21630.1	inside	257	617				
+//
+# AT1G51940.1 Length: 651
+# AT1G51940.1 Number of predicted TMRs: 1
+AT1G51940.1	signal	1	19				
+AT1G51940.1	outside	20	238				
+AT1G51940.1	TMhelix	239	259				
+AT1G51940.1	inside	260	651				
+//
+# AT2G33580.1 Length: 664
+# AT2G33580.1 Number of predicted TMRs: 1
+AT2G33580.1	signal	1	26				
+AT2G33580.1	outside	27	278				
+AT2G33580.1	TMhelix	279	300				
+AT2G33580.1	inside	301	664				
+//
+# AT2G23770.1 Length: 612
+# AT2G23770.1 Number of predicted TMRs: 1
+AT2G23770.1	signal	1	22				
+AT2G23770.1	outside	23	275				
+AT2G23770.1	TMhelix	276	294				
+AT2G23770.1	inside	295	612				
+//
+# AT3G01840.1 Length: 654
+# AT3G01840.1 Number of predicted TMRs: 1
+AT3G01840.1	signal	1	31				
+AT3G01840.1	outside	32	243				
+AT3G01840.1	TMhelix	244	264				
+AT3G01840.1	inside	265	654				
+//
+# AT1G49730.1 Length: 693
+# AT1G49730.1 Number of predicted TMRs: 1
+AT1G49730.1	signal	1	55				
+AT1G49730.1	outside	56	284				
+AT1G49730.1	TMhelix	285	305				
+AT1G49730.1	inside	306	693				
+//
+# AT1G65800.1 Length: 847
+# AT1G65800.1 Number of predicted TMRs: 1
+AT1G65800.1	signal	1	27				
+AT1G65800.1	outside	28	439				
+AT1G65800.1	TMhelix	440	460				
+AT1G65800.1	inside	461	847				
+//
+# AT1G65790.1 Length: 843
+# AT1G65790.1 Number of predicted TMRs: 1
+AT1G65790.1	signal	1	27				
+AT1G65790.1	outside	28	435				
+AT1G65790.1	TMhelix	436	456				
+AT1G65790.1	inside	457	843				
+//
+# AT1G70530.1 Length: 646
+# AT1G70530.1 Number of predicted TMRs: 1
+AT1G70530.1	signal	1	20				
+AT1G70530.1	outside	21	260				
+AT1G70530.1	TMhelix	261	281				
+AT1G70530.1	inside	282	646				
+//
+# AT1G70520.1 Length: 649
+# AT1G70520.1 Number of predicted TMRs: 1
+AT1G70520.1	signal	1	29				
+AT1G70520.1	outside	30	260				
+AT1G70520.1	TMhelix	261	281				
+AT1G70520.1	inside	282	649				
+//
+# AT1G16260.1 Length: 720
+# AT1G16260.1 Number of predicted TMRs: 1
+AT1G16260.1	signal	1	23				
+AT1G16260.1	outside	24	315				
+AT1G16260.1	TMhelix	316	336				
+AT1G16260.1	inside	337	720				
+//
+# AT1G70460.1 Length: 710
+# AT1G70460.1 Number of predicted TMRs: 1
+AT1G70460.1	outside	1	238				
+AT1G70460.1	TMhelix	239	256				
+AT1G70460.1	inside	257	710				
+//
+# AT1G70450.1 Length: 394
+# AT1G70450.1 Number of predicted TMRs: 0
+AT1G70450.1	inside	1	394				
+//
+# AT1G21210.1 Length: 738
+# AT1G21210.1 Number of predicted TMRs: 1
+AT1G21210.1	signal	1	22				
+AT1G21210.1	outside	23	335				
+AT1G21210.1	TMhelix	336	356				
+AT1G21210.1	inside	357	738				
+//
+# AT1G21240.1 Length: 741
+# AT1G21240.1 Number of predicted TMRs: 1
+AT1G21240.1	signal	1	23				
+AT1G21240.1	outside	24	342				
+AT1G21240.1	TMhelix	343	361				
+AT1G21240.1	inside	362	741				
+//
+# AT1G21230.1 Length: 733
+# AT1G21230.1 Number of predicted TMRs: 1
+AT1G21230.1	signal	1	23				
+AT1G21230.1	outside	24	335				
+AT1G21230.1	TMhelix	336	354				
+AT1G21230.1	inside	355	733				
+//
+# AT1G70740.1 Length: 425
+# AT1G70740.1 Number of predicted TMRs: 0
+AT1G70740.1	inside	1	425				
+//
+# AT1G21270.1 Length: 732
+# AT1G21270.1 Number of predicted TMRs: 1
+AT1G21270.1	signal	1	23				
+AT1G21270.1	outside	24	331				
+AT1G21270.1	TMhelix	332	350				
+AT1G21270.1	inside	351	732				
+//
+# AT1G16130.1 Length: 748
+# AT1G16130.1 Number of predicted TMRs: 1
+AT1G16130.1	signal	1	27				
+AT1G16130.1	outside	28	341				
+AT1G16130.1	TMhelix	342	362				
+AT1G16130.1	inside	363	748				
+//
+# AT1G16150.1 Length: 779
+# AT1G16150.1 Number of predicted TMRs: 1
+AT1G16150.1	signal	1	26				
+AT1G16150.1	outside	27	371				
+AT1G16150.1	TMhelix	372	388				
+AT1G16150.1	inside	389	779				
+//
+# AT1G16160.1 Length: 711
+# AT1G16160.1 Number of predicted TMRs: 1
+AT1G16160.1	outside	1	335				
+AT1G16160.1	TMhelix	336	361				
+AT1G16160.1	inside	362	711				
+//
+# AT1G21250.1 Length: 735
+# AT1G21250.1 Number of predicted TMRs: 1
+AT1G21250.1	signal	1	24				
+AT1G21250.1	outside	25	336				
+AT1G21250.1	TMhelix	337	355				
+AT1G21250.1	inside	356	735				
+//
+# AT1G16120.1 Length: 730
+# AT1G16120.1 Number of predicted TMRs: 1
+AT1G16120.1	signal	1	25				
+AT1G16120.1	outside	26	355				
+AT1G16120.1	TMhelix	356	376				
+AT1G16120.1	inside	377	730				
+//
+# AT1G16110.1 Length: 642
+# AT1G16110.1 Number of predicted TMRs: 1
+AT1G16110.1	signal	1	28				
+AT1G16110.1	outside	29	361				
+AT1G16110.1	TMhelix	362	382				
+AT1G16110.1	inside	383	642				
+//
+# AT1G67520.1 Length: 587
+# AT1G67520.1 Number of predicted TMRs: 1
+AT1G67520.1	signal	1	22				
+AT1G67520.1	outside	23	401				
+AT1G67520.1	TMhelix	402	411				
+AT1G67520.1	inside	412	587				
+//
+# AT1G11410.1 Length: 845
+# AT1G11410.1 Number of predicted TMRs: 1
+AT1G11410.1	signal	1	21				
+AT1G11410.1	outside	22	441				
+AT1G11410.1	TMhelix	442	462				
+AT1G11410.1	inside	463	845				
+//
+# AT1G11280.1 Length: 830
+# AT1G11280.1 Number of predicted TMRs: 1
+AT1G11280.1	signal	1	38				
+AT1G11280.1	outside	39	444				
+AT1G11280.1	TMhelix	445	465				
+AT1G11280.1	inside	466	830				
+//
+# AT1G11300.1 Length: 1650
+# AT1G11300.1 Number of predicted TMRs: 3
+AT1G11300.1	signal	1	26				
+AT1G11300.1	outside	27	436				
+AT1G11300.1	TMhelix	437	457				
+AT1G11300.1	inside	458	839				
+AT1G11300.1	TMhelix	840	851				
+AT1G11300.1	outside	852	1266				
+AT1G11300.1	TMhelix	1267	1287				
+AT1G11300.1	inside	1288	1650				
+//
+# AT1G11350.1 Length: 830
+# AT1G11350.1 Number of predicted TMRs: 1
+AT1G11350.1	signal	1	21				
+AT1G11350.1	outside	22	434				
+AT1G11350.1	TMhelix	435	457				
+AT1G11350.1	inside	458	830				
+//
+# AT1G11330.1 Length: 840
+# AT1G11330.1 Number of predicted TMRs: 1
+AT1G11330.1	signal	1	29				
+AT1G11330.1	outside	30	446				
+AT1G11330.1	TMhelix	447	467				
+AT1G11330.1	inside	468	840				
+//
+# AT1G11340.1 Length: 901
+# AT1G11340.1 Number of predicted TMRs: 2
+AT1G11340.1	inside	1	71				
+AT1G11340.1	TMhelix	72	81				
+AT1G11340.1	outside	82	506				
+AT1G11340.1	TMhelix	507	529				
+AT1G11340.1	inside	530	901				
+//
+# AT1G79670.1 Length: 751
+# AT1G79670.1 Number of predicted TMRs: 1
+AT1G79670.1	signal	1	27				
+AT1G79670.1	outside	28	346				
+AT1G79670.1	TMhelix	347	368				
+AT1G79670.1	inside	369	751				
+//
+# AT1G11050.1 Length: 625
+# AT1G11050.1 Number of predicted TMRs: 1
+AT1G11050.1	signal	1	20				
+AT1G11050.1	outside	21	233				
+AT1G11050.1	TMhelix	234	252				
+AT1G11050.1	inside	253	625				
+//
+# AT1G34300.1 Length: 829
+# AT1G34300.1 Number of predicted TMRs: 1
+AT1G34300.1	signal	1	25				
+AT1G34300.1	outside	26	424				
+AT1G34300.1	TMhelix	425	445				
+AT1G34300.1	inside	446	829				
+//
+# AT1G23540.1 Length: 720
+# AT1G23540.1 Number of predicted TMRs: 1
+AT1G23540.1	outside	1	246				
+AT1G23540.1	TMhelix	247	267				
+AT1G23540.1	inside	268	720				
+//
+# AT1G51880.1 Length: 880
+# AT1G51880.1 Number of predicted TMRs: 1
+AT1G51880.1	signal	1	23				
+AT1G51880.1	outside	24	521				
+AT1G51880.1	TMhelix	522	542				
+AT1G51880.1	inside	543	880				
+//
+# AT1G51870.1 Length: 837
+# AT1G51870.1 Number of predicted TMRs: 1
+AT1G51870.1	signal	1	23				
+AT1G51870.1	outside	24	462				
+AT1G51870.1	TMhelix	463	483				
+AT1G51870.1	inside	484	837				
+//
+# AT1G51910.1 Length: 876
+# AT1G51910.1 Number of predicted TMRs: 1
+AT1G51910.1	signal	1	23				
+AT1G51910.1	outside	24	510				
+AT1G51910.1	TMhelix	511	531				
+AT1G51910.1	inside	532	876				
+//
+# AT1G18390.1 Length: 648
+# AT1G18390.1 Number of predicted TMRs: 1
+AT1G18390.1	signal	1	23				
+AT1G18390.1	outside	24	261				
+AT1G18390.1	TMhelix	262	282				
+AT1G18390.1	inside	283	648				
+//
+# AT1G51620.1 Length: 262
+# AT1G51620.1 Number of predicted TMRs: 0
+AT1G51620.1	inside	1	262				
+//
+# AT1G55200.1 Length: 676
+# AT1G55200.1 Number of predicted TMRs: 0
+AT1G55200.1	inside	1	676				
+//
+# AT1G10620.1 Length: 718
+# AT1G10620.1 Number of predicted TMRs: 1
+AT1G10620.1	signal	1	10				
+AT1G10620.1	outside	11	263				
+AT1G10620.1	TMhelix	264	279				
+AT1G10620.1	inside	280	718				
+//
+# AT1G61550.1 Length: 802
+# AT1G61550.1 Number of predicted TMRs: 1
+AT1G61550.1	signal	1	19				
+AT1G61550.1	outside	20	421				
+AT1G61550.1	TMhelix	422	442				
+AT1G61550.1	inside	443	802				
+//
+# AT1G69910.1 Length: 636
+# AT1G69910.1 Number of predicted TMRs: 1
+AT1G69910.1	signal	1	26				
+AT1G69910.1	outside	27	256				
+AT1G69910.1	TMhelix	257	277				
+AT1G69910.1	inside	278	636				
+//
+# AT1G61610.1 Length: 842
+# AT1G61610.1 Number of predicted TMRs: 1
+AT1G61610.1	signal	1	26				
+AT1G61610.1	outside	27	443				
+AT1G61610.1	TMhelix	444	465				
+AT1G61610.1	inside	466	842				
+//
+# AT1G69730.1 Length: 792
+# AT1G69730.1 Number of predicted TMRs: 1
+AT1G69730.1	signal	1	24				
+AT1G69730.1	outside	25	372				
+AT1G69730.1	TMhelix	373	393				
+AT1G69730.1	inside	394	792				
+//
+# AT1G61370.1 Length: 814
+# AT1G61370.1 Number of predicted TMRs: 1
+AT1G61370.1	signal	1	25				
+AT1G61370.1	outside	26	433				
+AT1G61370.1	TMhelix	434	454				
+AT1G61370.1	inside	455	814				
+//
+# AT1G61380.1 Length: 805
+# AT1G61380.1 Number of predicted TMRs: 1
+AT1G61380.1	signal	1	21				
+AT1G61380.1	outside	22	428				
+AT1G61380.1	TMhelix	429	451				
+AT1G61380.1	inside	452	805				
+//
+# AT1G61390.1 Length: 831
+# AT1G61390.1 Number of predicted TMRs: 1
+AT1G61390.1	signal	1	42				
+AT1G61390.1	outside	43	449				
+AT1G61390.1	TMhelix	450	470				
+AT1G61390.1	inside	471	831				
+//
+# AT1G61360.1 Length: 821
+# AT1G61360.1 Number of predicted TMRs: 1
+AT1G61360.1	signal	1	20				
+AT1G61360.1	outside	21	427				
+AT1G61360.1	TMhelix	428	450				
+AT1G61360.1	inside	451	821				
+//
+# AT1G61400.1 Length: 819
+# AT1G61400.1 Number of predicted TMRs: 1
+AT1G61400.1	signal	1	34				
+AT1G61400.1	outside	35	436				
+AT1G61400.1	TMhelix	437	457				
+AT1G61400.1	inside	458	819				
+//
+# AT1G61490.1 Length: 804
+# AT1G61490.1 Number of predicted TMRs: 1
+AT1G61490.1	signal	1	24				
+AT1G61490.1	outside	25	425				
+AT1G61490.1	TMhelix	426	448				
+AT1G61490.1	inside	449	804				
+//
+# AT1G61480.1 Length: 809
+# AT1G61480.1 Number of predicted TMRs: 1
+AT1G61480.1	signal	1	24				
+AT1G61480.1	outside	25	425				
+AT1G61480.1	TMhelix	426	448				
+AT1G61480.1	inside	449	809				
+//
+# AT1G61460.1 Length: 598
+# AT1G61460.1 Number of predicted TMRs: 1
+AT1G61460.1	outside	1	241				
+AT1G61460.1	TMhelix	242	262				
+AT1G61460.1	inside	263	598				
+//
+# AT1G70110.1 Length: 666
+# AT1G70110.1 Number of predicted TMRs: 1
+AT1G70110.1	signal	1	18				
+AT1G70110.1	outside	19	289				
+AT1G70110.1	TMhelix	290	311				
+AT1G70110.1	inside	312	666				
+//
+# AT1G61500.1 Length: 804
+# AT1G61500.1 Number of predicted TMRs: 1
+AT1G61500.1	signal	1	25				
+AT1G61500.1	outside	26	427				
+AT1G61500.1	TMhelix	428	448				
+AT1G61500.1	inside	449	804				
+//
+# AT1G54820.1 Length: 458
+# AT1G54820.1 Number of predicted TMRs: 1
+AT1G54820.1	outside	1	38				
+AT1G54820.1	TMhelix	39	59				
+AT1G54820.1	inside	60	458				
+//
+# AT1G70130.1 Length: 656
+# AT1G70130.1 Number of predicted TMRs: 1
+AT1G70130.1	signal	1	23				
+AT1G70130.1	outside	24	276				
+AT1G70130.1	TMhelix	277	301				
+AT1G70130.1	inside	302	656				
+//
+# AT1G61440.1 Length: 792
+# AT1G61440.1 Number of predicted TMRs: 1
+AT1G61440.1	signal	1	17				
+AT1G61440.1	outside	18	419				
+AT1G61440.1	TMhelix	420	440				
+AT1G61440.1	inside	441	792				
+//
+# AT1G61430.1 Length: 806
+# AT1G61430.1 Number of predicted TMRs: 1
+AT1G61430.1	signal	1	24				
+AT1G61430.1	outside	25	425				
+AT1G61430.1	TMhelix	426	446				
+AT1G61430.1	inside	447	806				
+//
+# AT1G61420.1 Length: 807
+# AT1G61420.1 Number of predicted TMRs: 1
+AT1G61420.1	signal	1	24				
+AT1G61420.1	outside	25	426				
+AT1G61420.1	TMhelix	427	448				
+AT1G61420.1	inside	449	807				
+//
+# AT1G16670.1 Length: 390
+# AT1G16670.1 Number of predicted TMRs: 0
+AT1G16670.1	inside	1	390				
+//
+# AT1G78530.1 Length: 355
+# AT1G78530.1 Number of predicted TMRs: 1
+AT1G78530.1	outside	1	8				
+AT1G78530.1	TMhelix	9	29				
+AT1G78530.1	inside	30	355				
+//
+# AT1G19090.1 Length: 600
+# AT1G19090.1 Number of predicted TMRs: 1
+AT1G19090.1	signal	1	25				
+AT1G19090.1	outside	26	266				
+AT1G19090.1	TMhelix	267	287				
+AT1G19090.1	inside	288	600				
+//
+# AT1G70250.1 Length: 799
+# AT1G70250.1 Number of predicted TMRs: 1
+AT1G70250.1	signal	1	19				
+AT1G70250.1	outside	20	404				
+AT1G70250.1	TMhelix	405	423				
+AT1G70250.1	inside	424	799				
+//
+# AT1G49270.1 Length: 699
+# AT1G49270.1 Number of predicted TMRs: 1
+AT1G49270.1	outside	1	174				
+AT1G49270.1	TMhelix	175	195				
+AT1G49270.1	inside	196	699				
+//
+# AT1G19390.1 Length: 788
+# AT1G19390.1 Number of predicted TMRs: 1
+AT1G19390.1	signal	1	27				
+AT1G19390.1	outside	28	384				
+AT1G19390.1	TMhelix	385	397				
+AT1G19390.1	inside	398	788				
+//
+# AT1G26150.1 Length: 762
+# AT1G26150.1 Number of predicted TMRs: 1
+AT1G26150.1	outside	1	328				
+AT1G26150.1	TMhelix	329	349				
+AT1G26150.1	inside	350	762				
+//
+# AT1G25390.1 Length: 629
+# AT1G25390.1 Number of predicted TMRs: 1
+AT1G25390.1	signal	1	19				
+AT1G25390.1	outside	20	224				
+AT1G25390.1	TMhelix	225	245				
+AT1G25390.1	inside	246	629				
+//
+# AT1G30570.1 Length: 849
+# AT1G30570.1 Number of predicted TMRs: 1
+AT1G30570.1	signal	1	26				
+AT1G30570.1	outside	27	429				
+AT1G30570.1	TMhelix	430	453				
+AT1G30570.1	inside	454	849				
+//
+# AT1G52310.1 Length: 552
+# AT1G52310.1 Number of predicted TMRs: 1
+AT1G52310.1	signal	1	32				
+AT1G52310.1	outside	33	201				
+AT1G52310.1	TMhelix	202	222				
+AT1G52310.1	inside	223	552				
+//
+# AT1G52290.1 Length: 509
+# AT1G52290.1 Number of predicted TMRs: 1
+AT1G52290.1	outside	1	62				
+AT1G52290.1	TMhelix	63	82				
+AT1G52290.1	inside	83	509				
+//
+# AT1G66920.1 Length: 609
+# AT1G66920.1 Number of predicted TMRs: 1
+AT1G66920.1	signal	1	26				
+AT1G66920.1	outside	27	237				
+AT1G66920.1	TMhelix	238	257				
+AT1G66920.1	inside	258	609				
+//
+# AT1G67000.1 Length: 892
+# AT1G67000.1 Number of predicted TMRs: 1
+AT1G67000.1	signal	1	26				
+AT1G67000.1	outside	27	496				
+AT1G67000.1	TMhelix	497	514				
+AT1G67000.1	inside	515	892				
+//
+# AT1G66930.1 Length: 674
+# AT1G66930.1 Number of predicted TMRs: 1
+AT1G66930.1	outside	1	282				
+AT1G66930.1	TMhelix	283	304				
+AT1G66930.1	inside	305	674				
+//
+# AT1G79680.1 Length: 769
+# AT1G79680.1 Number of predicted TMRs: 1
+AT1G79680.1	signal	1	24				
+AT1G79680.1	outside	25	358				
+AT1G79680.1	TMhelix	359	379				
+AT1G79680.1	inside	380	769				
+//
+# AT1G66910.1 Length: 666
+# AT1G66910.1 Number of predicted TMRs: 1
+AT1G66910.1	signal	1	30				
+AT1G66910.1	outside	31	283				
+AT1G66910.1	TMhelix	284	299				
+AT1G66910.1	inside	300	666				
+//
+# AT1G66980.1 Length: 1118
+# AT1G66980.1 Number of predicted TMRs: 1
+AT1G66980.1	signal	1	36				
+AT1G66980.1	outside	37	751				
+AT1G66980.1	TMhelix	752	772				
+AT1G66980.1	inside	773	1118				
+//
+# AT1G17910.1 Length: 764
+# AT1G17910.1 Number of predicted TMRs: 1
+AT1G17910.1	signal	1	22				
+AT1G17910.1	outside	23	379				
+AT1G17910.1	TMhelix	380	400				
+AT1G17910.1	inside	401	764				
+//
+# AT1G68690.1 Length: 708
+# AT1G68690.1 Number of predicted TMRs: 1
+AT1G68690.1	outside	1	280				
+AT1G68690.1	TMhelix	281	301				
+AT1G68690.1	inside	302	708				
+//
+# AT1G28390.1 Length: 470
+# AT1G28390.1 Number of predicted TMRs: 0
+AT1G28390.1	inside	1	470				
+//
+# AT1G66880.1 Length: 1296
+# AT1G66880.1 Number of predicted TMRs: 1
+AT1G66880.1	signal	1	20				
+AT1G66880.1	outside	21	874				
+AT1G66880.1	TMhelix	875	893				
+AT1G66880.1	inside	894	1296				
+//
+# AT1G15530.1 Length: 656
+# AT1G15530.1 Number of predicted TMRs: 1
+AT1G15530.1	signal	1	29				
+AT1G15530.1	outside	30	304				
+AT1G15530.1	TMhelix	305	325				
+AT1G15530.1	inside	326	656				
+//
+# AT2G41140.1 Length: 576
+# AT2G41140.1 Number of predicted TMRs: 0
+AT2G41140.1	inside	1	576				
+//
+# AT2G48010.1 Length: 617
+# AT2G48010.1 Number of predicted TMRs: 1
+AT2G48010.1	signal	1	20				
+AT2G48010.1	outside	21	212				
+AT2G48010.1	TMhelix	213	233				
+AT2G48010.1	inside	234	617				
+//
+# AT2G20300.1 Length: 744
+# AT2G20300.1 Number of predicted TMRs: 1
+AT2G20300.1	signal	1	25				
+AT2G20300.1	outside	26	260				
+AT2G20300.1	TMhelix	261	281				
+AT2G20300.1	inside	282	744				
+//
+# AT2G43690.1 Length: 664
+# AT2G43690.1 Number of predicted TMRs: 1
+AT2G43690.1	signal	1	26				
+AT2G43690.1	outside	27	278				
+AT2G43690.1	TMhelix	279	301				
+AT2G43690.1	inside	302	664				
+//
+# AT2G43700.1 Length: 658
+# AT2G43700.1 Number of predicted TMRs: 1
+AT2G43700.1	signal	1	25				
+AT2G43700.1	outside	26	279				
+AT2G43700.1	TMhelix	280	300				
+AT2G43700.1	inside	301	658				
+//
+# AT2G37710.1 Length: 675
+# AT2G37710.1 Number of predicted TMRs: 1
+AT2G37710.1	signal	1	22				
+AT2G37710.1	outside	23	291				
+AT2G37710.1	TMhelix	292	312				
+AT2G37710.1	inside	313	675				
+//
+# AT2G19130.1 Length: 828
+# AT2G19130.1 Number of predicted TMRs: 1
+AT2G19130.1	signal	1	22				
+AT2G19130.1	outside	23	439				
+AT2G19130.1	TMhelix	440	463				
+AT2G19130.1	inside	464	828				
+//
+# AT2G23200.1 Length: 834
+# AT2G23200.1 Number of predicted TMRs: 1
+AT2G23200.1	signal	1	28				
+AT2G23200.1	outside	29	401				
+AT2G23200.1	TMhelix	402	424				
+AT2G23200.1	inside	425	834				
+//
+# AT2G18470.1 Length: 633
+# AT2G18470.1 Number of predicted TMRs: 1
+AT2G18470.1	outside	1	151				
+AT2G18470.1	TMhelix	152	172				
+AT2G18470.1	inside	173	633				
+//
+# AT2G39360.1 Length: 815
+# AT2G39360.1 Number of predicted TMRs: 1
+AT2G39360.1	signal	1	25				
+AT2G39360.1	outside	26	409				
+AT2G39360.1	TMhelix	410	430				
+AT2G39360.1	inside	431	815				
+//
+# AT2G39180.1 Length: 776
+# AT2G39180.1 Number of predicted TMRs: 1
+AT2G39180.1	signal	1	22				
+AT2G39180.1	outside	23	431				
+AT2G39180.1	TMhelix	432	453				
+AT2G39180.1	inside	454	776				
+//
+# AT2G32800.1 Length: 851
+# AT2G32800.1 Number of predicted TMRs: 0
+AT2G32800.1	inside	1	851				
+//
+# AT2G29220.1 Length: 627
+# AT2G29220.1 Number of predicted TMRs: 1
+AT2G29220.1	signal	1	23				
+AT2G29220.1	outside	24	305				
+AT2G29220.1	TMhelix	306	326				
+AT2G29220.1	inside	327	627				
+//
+# AT2G29250.1 Length: 623
+# AT2G29250.1 Number of predicted TMRs: 1
+AT2G29250.1	signal	1	23				
+AT2G29250.1	outside	24	303				
+AT2G29250.1	TMhelix	304	324				
+AT2G29250.1	inside	325	623				
+//
+# AT2G46850.1 Length: 633
+# AT2G46850.1 Number of predicted TMRs: 1
+AT2G46850.1	signal	1	30				
+AT2G46850.1	outside	31	283				
+AT2G46850.1	TMhelix	284	304				
+AT2G46850.1	inside	305	633				
+//
+# AT2G29000.1 Length: 872
+# AT2G29000.1 Number of predicted TMRs: 1
+AT2G29000.1	signal	1	24				
+AT2G29000.1	outside	25	506				
+AT2G29000.1	TMhelix	507	527				
+AT2G29000.1	inside	528	872				
+//
+# AT2G14510.1 Length: 868
+# AT2G14510.1 Number of predicted TMRs: 1
+AT2G14510.1	signal	1	23				
+AT2G14510.1	outside	24	510				
+AT2G14510.1	TMhelix	511	531				
+AT2G14510.1	inside	532	868				
+//
+# AT2G14440.1 Length: 886
+# AT2G14440.1 Number of predicted TMRs: 1
+AT2G14440.1	signal	1	23				
+AT2G14440.1	outside	24	528				
+AT2G14440.1	TMhelix	529	549				
+AT2G14440.1	inside	550	886				
+//
+# AT2G28990.1 Length: 884
+# AT2G28990.1 Number of predicted TMRs: 1
+AT2G28990.1	signal	1	19				
+AT2G28990.1	outside	20	506				
+AT2G28990.1	TMhelix	507	529				
+AT2G28990.1	inside	530	884				
+//
+# AT2G21480.1 Length: 871
+# AT2G21480.1 Number of predicted TMRs: 1
+AT2G21480.1	signal	1	39				
+AT2G21480.1	outside	40	440				
+AT2G21480.1	TMhelix	441	461				
+AT2G21480.1	inside	462	871				
+//
+# AT2G40270.1 Length: 489
+# AT2G40270.1 Number of predicted TMRs: 1
+AT2G40270.1	signal	1	23				
+AT2G40270.1	outside	24	138				
+AT2G40270.1	TMhelix	139	159				
+AT2G40270.1	inside	160	489				
+//
+# AT2G23450.1 Length: 708
+# AT2G23450.1 Number of predicted TMRs: 1
+AT2G23450.1	signal	1	42				
+AT2G23450.1	outside	43	293				
+AT2G23450.1	TMhelix	294	305				
+AT2G23450.1	inside	306	708				
+//
+# AT3G45390.1 Length: 604
+# AT3G45390.1 Number of predicted TMRs: 1
+AT3G45390.1	signal	1	24				
+AT3G45390.1	outside	25	296				
+AT3G45390.1	TMhelix	297	317				
+AT3G45390.1	inside	318	604				
+//
+# AT3G19300.1 Length: 663
+# AT3G19300.1 Number of predicted TMRs: 1
+AT3G19300.1	signal	1	28				
+AT3G19300.1	outside	29	255				
+AT3G19300.1	TMhelix	256	275				
+AT3G19300.1	inside	276	663				
+//
+# AT3G51550.1 Length: 895
+# AT3G51550.1 Number of predicted TMRs: 1
+AT3G51550.1	signal	1	27				
+AT3G51550.1	outside	28	447				
+AT3G51550.1	TMhelix	448	469				
+AT3G51550.1	inside	470	895				
+//
+# AT3G16030.1 Length: 850
+# AT3G16030.1 Number of predicted TMRs: 1
+AT3G16030.1	signal	1	22				
+AT3G16030.1	outside	23	423				
+AT3G16030.1	TMhelix	424	444				
+AT3G16030.1	inside	445	850				
+//
+# AT3G45330.1 Length: 682
+# AT3G45330.1 Number of predicted TMRs: 1
+AT3G45330.1	signal	1	25				
+AT3G45330.1	outside	26	293				
+AT3G45330.1	TMhelix	294	314				
+AT3G45330.1	inside	315	682				
+//
+# AT3G45860.1 Length: 676
+# AT3G45860.1 Number of predicted TMRs: 1
+AT3G45860.1	signal	1	18				
+AT3G45860.1	outside	19	288				
+AT3G45860.1	TMhelix	289	309				
+AT3G45860.1	inside	310	676				
+//
+# AT3G53840.1 Length: 639
+# AT3G53840.1 Number of predicted TMRs: 1
+AT3G53840.1	signal	1	25				
+AT3G53840.1	outside	26	284				
+AT3G53840.1	TMhelix	285	303				
+AT3G53840.1	inside	304	639				
+//
+# AT3G59700.1 Length: 661
+# AT3G59700.1 Number of predicted TMRs: 1
+AT3G59700.1	signal	1	25				
+AT3G59700.1	outside	26	280				
+AT3G59700.1	TMhelix	281	303				
+AT3G59700.1	inside	304	661				
+//
+# AT3G59730.1 Length: 523
+# AT3G59730.1 Number of predicted TMRs: 1
+AT3G59730.1	signal	1	27				
+AT3G59730.1	outside	28	277				
+AT3G59730.1	TMhelix	278	300				
+AT3G59730.1	inside	301	523				
+//
+# AT3G59750.1 Length: 626
+# AT3G59750.1 Number of predicted TMRs: 1
+AT3G59750.1	signal	1	21				
+AT3G59750.1	outside	22	245				
+AT3G59750.1	TMhelix	246	268				
+AT3G59750.1	inside	269	626				
+//
+# AT3G59740.1 Length: 659
+# AT3G59740.1 Number of predicted TMRs: 1
+AT3G59740.1	signal	1	25				
+AT3G59740.1	outside	26	277				
+AT3G59740.1	TMhelix	278	300				
+AT3G59740.1	inside	301	659				
+//
+# AT3G46410.1 Length: 291
+# AT3G46410.1 Number of predicted TMRs: 0
+AT3G46410.1	inside	1	291				
+//
+# AT3G46350.1 Length: 871
+# AT3G46350.1 Number of predicted TMRs: 1
+AT3G46350.1	signal	1	24				
+AT3G46350.1	outside	25	491				
+AT3G46350.1	TMhelix	492	514				
+AT3G46350.1	inside	515	871				
+//
+# AT3G09010.1 Length: 393
+# AT3G09010.1 Number of predicted TMRs: 0
+AT3G09010.1	inside	1	393				
+//
+# AT3G53810.1 Length: 677
+# AT3G53810.1 Number of predicted TMRs: 1
+AT3G53810.1	signal	1	22				
+AT3G53810.1	outside	23	291				
+AT3G53810.1	TMhelix	292	312				
+AT3G53810.1	inside	313	677				
+//
+# AT3G45440.1 Length: 669
+# AT3G45440.1 Number of predicted TMRs: 1
+AT3G45440.1	signal	1	21				
+AT3G45440.1	outside	22	288				
+AT3G45440.1	TMhelix	289	309				
+AT3G45440.1	inside	310	669				
+//
+# AT3G45420.1 Length: 667
+# AT3G45420.1 Number of predicted TMRs: 1
+AT3G45420.1	signal	1	22				
+AT3G45420.1	outside	23	294				
+AT3G45420.1	TMhelix	295	315				
+AT3G45420.1	inside	316	667				
+//
+# AT3G45430.1 Length: 674
+# AT3G45430.1 Number of predicted TMRs: 1
+AT3G45430.1	signal	1	22				
+AT3G45430.1	outside	23	287				
+AT3G45430.1	TMhelix	288	308				
+AT3G45430.1	inside	309	674				
+//
+# AT3G13690.1 Length: 753
+# AT3G13690.1 Number of predicted TMRs: 0
+AT3G13690.1	inside	1	753				
+//
+# AT3G45410.1 Length: 664
+# AT3G45410.1 Number of predicted TMRs: 1
+AT3G45410.1	signal	1	22				
+AT3G45410.1	outside	23	286				
+AT3G45410.1	TMhelix	287	307				
+AT3G45410.1	inside	308	664				
+//
+# AT3G46760.1 Length: 337
+# AT3G46760.1 Number of predicted TMRs: 0
+AT3G46760.1	inside	1	337				
+//
+# AT3G59420.1 Length: 895
+# AT3G59420.1 Number of predicted TMRs: 1
+AT3G59420.1	signal	1	29				
+AT3G59420.1	outside	30	436				
+AT3G59420.1	TMhelix	437	455				
+AT3G59420.1	inside	456	895				
+//
+# AT3G46290.1 Length: 830
+# AT3G46290.1 Number of predicted TMRs: 1
+AT3G46290.1	signal	1	24				
+AT3G46290.1	outside	25	405				
+AT3G46290.1	TMhelix	406	426				
+AT3G46290.1	inside	427	830				
+//
+# AT3G09780.1 Length: 775
+# AT3G09780.1 Number of predicted TMRs: 1
+AT3G09780.1	signal	1	23				
+AT3G09780.1	outside	24	438				
+AT3G09780.1	TMhelix	439	460				
+AT3G09780.1	inside	461	775				
+//
+# AT3G04690.1 Length: 850
+# AT3G04690.1 Number of predicted TMRs: 1
+AT3G04690.1	signal	1	26				
+AT3G04690.1	outside	27	430				
+AT3G04690.1	TMhelix	431	451				
+AT3G04690.1	inside	452	850				
+//
+# AT3G57120.1 Length: 456
+# AT3G57120.1 Number of predicted TMRs: 0
+AT3G57120.1	inside	1	456				
+//
+# AT3G51990.1 Length: 362
+# AT3G51990.1 Number of predicted TMRs: 0
+AT3G51990.1	inside	1	362				
+//
+# AT3G55550.1 Length: 684
+# AT3G55550.1 Number of predicted TMRs: 1
+AT3G55550.1	signal	1	21				
+AT3G55550.1	outside	22	292				
+AT3G55550.1	TMhelix	293	313				
+AT3G55550.1	inside	314	684				
+//
+# AT3G18810.1 Length: 700
+# AT3G18810.1 Number of predicted TMRs: 1
+AT3G18810.1	outside	1	186				
+AT3G18810.1	TMhelix	187	205				
+AT3G18810.1	inside	206	700				
+//
+# AT3G53380.1 Length: 715
+# AT3G53380.1 Number of predicted TMRs: 1
+AT3G53380.1	signal	1	21				
+AT3G53380.1	outside	22	320				
+AT3G53380.1	TMhelix	321	339				
+AT3G53380.1	inside	340	715				
+//
+# AT3G58690.1 Length: 400
+# AT3G58690.1 Number of predicted TMRs: 1
+AT3G58690.1	outside	1	13				
+AT3G58690.1	TMhelix	14	34				
+AT3G58690.1	inside	35	400				
+//
+# AT3G24540.1 Length: 509
+# AT3G24540.1 Number of predicted TMRs: 1
+AT3G24540.1	outside	1	125				
+AT3G24540.1	TMhelix	126	144				
+AT3G24540.1	inside	145	509				
+//
+# AT3G24550.1 Length: 652
+# AT3G24550.1 Number of predicted TMRs: 1
+AT3G24550.1	outside	1	143				
+AT3G24550.1	TMhelix	144	162				
+AT3G24550.1	inside	163	652				
+//
+# AT3G25490.1 Length: 433
+# AT3G25490.1 Number of predicted TMRs: 2
+AT3G25490.1	inside	1	5				
+AT3G25490.1	TMhelix	6	24				
+AT3G25490.1	outside	25	29				
+AT3G25490.1	TMhelix	30	50				
+AT3G25490.1	inside	51	433				
+//
+# AT3G08870.1 Length: 693
+# AT3G08870.1 Number of predicted TMRs: 1
+AT3G08870.1	signal	1	29				
+AT3G08870.1	outside	30	311				
+AT3G08870.1	TMhelix	312	333				
+AT3G08870.1	inside	334	693				
+//
+# AT3G55950.1 Length: 814
+# AT3G55950.1 Number of predicted TMRs: 1
+AT3G55950.1	signal	1	30				
+AT3G55950.1	outside	31	395				
+AT3G55950.1	TMhelix	396	416				
+AT3G55950.1	inside	417	814				
+//
+# AT3G56050.1 Length: 499
+# AT3G56050.1 Number of predicted TMRs: 1
+AT3G56050.1	signal	1	31				
+AT3G56050.1	outside	32	146				
+AT3G56050.1	TMhelix	147	167				
+AT3G56050.1	inside	168	499				
+//
+# AT4G23280.1 Length: 656
+# AT4G23280.1 Number of predicted TMRs: 1
+AT4G23280.1	signal	1	23				
+AT4G23280.1	outside	24	254				
+AT4G23280.1	TMhelix	255	275				
+AT4G23280.1	inside	276	656				
+//
+# AT4G23270.1 Length: 645
+# AT4G23270.1 Number of predicted TMRs: 1
+AT4G23270.1	signal	1	20				
+AT4G23270.1	outside	21	263				
+AT4G23270.1	TMhelix	264	285				
+AT4G23270.1	inside	286	645				
+//
+# AT4G23240.1 Length: 352
+# AT4G23240.1 Number of predicted TMRs: 0
+AT4G23240.1	inside	1	352				
+//
+# AT4G23250.1 Length: 1035
+# AT4G23250.1 Number of predicted TMRs: 3
+AT4G23250.1	signal	1	26				
+AT4G23250.1	outside	27	302				
+AT4G23250.1	TMhelix	303	323				
+AT4G23250.1	inside	324	714				
+AT4G23250.1	TMhelix	715	724				
+AT4G23250.1	outside	725	977				
+AT4G23250.1	TMhelix	978	998				
+AT4G23250.1	inside	999	1035				
+//
+# AT4G23260.1 Length: 659
+# AT4G23260.1 Number of predicted TMRs: 1
+AT4G23260.1	signal	1	27				
+AT4G23260.1	outside	28	287				
+AT4G23260.1	TMhelix	288	308				
+AT4G23260.1	inside	309	659				
+//
+# AT4G05200.1 Length: 675
+# AT4G05200.1 Number of predicted TMRs: 1
+AT4G05200.1	signal	1	25				
+AT4G05200.1	outside	26	285				
+AT4G05200.1	TMhelix	286	306				
+AT4G05200.1	inside	307	675				
+//
+# AT4G23310.1 Length: 830
+# AT4G23310.1 Number of predicted TMRs: 1
+AT4G23310.1	signal	1	23				
+AT4G23310.1	outside	24	430				
+AT4G23310.1	TMhelix	431	453				
+AT4G23310.1	inside	454	830				
+//
+# AT4G23300.1 Length: 660
+# AT4G23300.1 Number of predicted TMRs: 1
+AT4G23300.1	signal	1	24				
+AT4G23300.1	outside	25	293				
+AT4G23300.1	TMhelix	294	315				
+AT4G23300.1	inside	316	660				
+//
+# AT4G23320.1 Length: 437
+# AT4G23320.1 Number of predicted TMRs: 1
+AT4G23320.1	outside	1	117				
+AT4G23320.1	TMhelix	118	136				
+AT4G23320.1	inside	137	437				
+//
+# AT4G03390.1 Length: 776
+# AT4G03390.1 Number of predicted TMRs: 1
+AT4G03390.1	signal	1	29				
+AT4G03390.1	outside	30	316				
+AT4G03390.1	TMhelix	317	337				
+AT4G03390.1	inside	338	776				
+//
+# AT4G28350.1 Length: 649
+# AT4G28350.1 Number of predicted TMRs: 1
+AT4G28350.1	signal	1	23				
+AT4G28350.1	outside	24	277				
+AT4G28350.1	TMhelix	278	287				
+AT4G28350.1	inside	288	649				
+//
+# AT4G03230.1 Length: 1010
+# AT4G03230.1 Number of predicted TMRs: 1
+AT4G03230.1	signal	1	19				
+AT4G03230.1	outside	20	605				
+AT4G03230.1	TMhelix	606	629				
+AT4G03230.1	inside	630	1010				
+//
+# AT4G21400.1 Length: 711
+# AT4G21400.1 Number of predicted TMRs: 1
+AT4G21400.1	signal	1	24				
+AT4G21400.1	outside	25	289				
+AT4G21400.1	TMhelix	290	310				
+AT4G21400.1	inside	311	711				
+//
+# AT4G21390.1 Length: 849
+# AT4G21390.1 Number of predicted TMRs: 1
+AT4G21390.1	signal	1	25				
+AT4G21390.1	outside	26	438				
+AT4G21390.1	TMhelix	439	459				
+AT4G21390.1	inside	460	849				
+//
+# AT4G21380.1 Length: 850
+# AT4G21380.1 Number of predicted TMRs: 1
+AT4G21380.1	signal	1	28				
+AT4G21380.1	outside	29	441				
+AT4G21380.1	TMhelix	442	462				
+AT4G21380.1	inside	463	850				
+//
+# AT4G21410.1 Length: 679
+# AT4G21410.1 Number of predicted TMRs: 1
+AT4G21410.1	signal	1	23				
+AT4G21410.1	outside	24	287				
+AT4G21410.1	TMhelix	288	308				
+AT4G21410.1	inside	309	679				
+//
+# AT4G18250.1 Length: 853
+# AT4G18250.1 Number of predicted TMRs: 1
+AT4G18250.1	signal	1	10				
+AT4G18250.1	outside	11	463				
+AT4G18250.1	TMhelix	464	484				
+AT4G18250.1	inside	485	853				
+//
+# AT4G39110.1 Length: 878
+# AT4G39110.1 Number of predicted TMRs: 1
+AT4G39110.1	signal	1	40				
+AT4G39110.1	outside	41	440				
+AT4G39110.1	TMhelix	441	461				
+AT4G39110.1	inside	462	878				
+//
+# AT4G31100.1 Length: 786
+# AT4G31100.1 Number of predicted TMRs: 1
+AT4G31100.1	signal	1	30				
+AT4G31100.1	outside	31	369				
+AT4G31100.1	TMhelix	370	390				
+AT4G31100.1	inside	391	786				
+//
+# AT4G31110.1 Length: 793
+# AT4G31110.1 Number of predicted TMRs: 1
+AT4G31110.1	signal	1	26				
+AT4G31110.1	outside	27	378				
+AT4G31110.1	TMhelix	379	399				
+AT4G31110.1	inside	400	793				
+//
+# AT4G29050.1 Length: 669
+# AT4G29050.1 Number of predicted TMRs: 1
+AT4G29050.1	signal	1	21				
+AT4G29050.1	outside	22	286				
+AT4G29050.1	TMhelix	287	310				
+AT4G29050.1	inside	311	669				
+//
+# AT4G28670.1 Length: 625
+# AT4G28670.1 Number of predicted TMRs: 1
+AT4G28670.1	signal	1	23				
+AT4G28670.1	outside	24	252				
+AT4G28670.1	TMhelix	253	273				
+AT4G28670.1	inside	274	625				
+//
+# AT4G00340.1 Length: 818
+# AT4G00340.1 Number of predicted TMRs: 1
+AT4G00340.1	signal	1	22				
+AT4G00340.1	outside	23	422				
+AT4G00340.1	TMhelix	423	446				
+AT4G00340.1	inside	447	818				
+//
+# AT4G23160.1 Length: 1262
+# AT4G23160.1 Number of predicted TMRs: 2
+AT4G23160.1	inside	1	604				
+AT4G23160.1	TMhelix	605	614				
+AT4G23160.1	outside	615	878				
+AT4G23160.1	TMhelix	879	899				
+AT4G23160.1	inside	900	1262				
+//
+# AT4G23180.1 Length: 669
+# AT4G23180.1 Number of predicted TMRs: 1
+AT4G23180.1	signal	1	34				
+AT4G23180.1	outside	35	286				
+AT4G23180.1	TMhelix	287	308				
+AT4G23180.1	inside	309	669				
+//
+# AT4G23230.1 Length: 507
+# AT4G23230.1 Number of predicted TMRs: 1
+AT4G23230.1	outside	1	156				
+AT4G23230.1	TMhelix	157	177				
+AT4G23230.1	inside	178	507				
+//
+# AT4G23220.1 Length: 728
+# AT4G23220.1 Number of predicted TMRs: 2
+AT4G23220.1	inside	1	75				
+AT4G23220.1	TMhelix	76	85				
+AT4G23220.1	outside	86	353				
+AT4G23220.1	TMhelix	354	373				
+AT4G23220.1	inside	374	728				
+//
+# AT4G23210.1 Length: 610
+# AT4G23210.1 Number of predicted TMRs: 1
+AT4G23210.1	signal	1	24				
+AT4G23210.1	outside	25	299				
+AT4G23210.1	TMhelix	300	320				
+AT4G23210.1	inside	321	610				
+//
+# AT4G23190.1 Length: 667
+# AT4G23190.1 Number of predicted TMRs: 1
+AT4G23190.1	signal	1	24				
+AT4G23190.1	outside	25	289				
+AT4G23190.1	TMhelix	290	311				
+AT4G23190.1	inside	312	667				
+//
+# AT4G23200.1 Length: 648
+# AT4G23200.1 Number of predicted TMRs: 1
+AT4G23200.1	signal	1	18				
+AT4G23200.1	outside	19	300				
+AT4G23200.1	TMhelix	301	310				
+AT4G23200.1	inside	311	648				
+//
+# AT4G23150.1 Length: 659
+# AT4G23150.1 Number of predicted TMRs: 1
+AT4G23150.1	signal	1	23				
+AT4G23150.1	outside	24	275				
+AT4G23150.1	TMhelix	276	296				
+AT4G23150.1	inside	297	659				
+//
+# AT4G21230.1 Length: 642
+# AT4G21230.1 Number of predicted TMRs: 1
+AT4G21230.1	signal	1	24				
+AT4G21230.1	outside	25	274				
+AT4G21230.1	TMhelix	275	295				
+AT4G21230.1	inside	296	642				
+//
+# AT4G38830.1 Length: 665
+# AT4G38830.1 Number of predicted TMRs: 1
+AT4G38830.1	signal	1	22				
+AT4G38830.1	outside	23	283				
+AT4G38830.1	TMhelix	284	304				
+AT4G38830.1	inside	305	665				
+//
+# AT4G00960.1 Length: 372
+# AT4G00960.1 Number of predicted TMRs: 0
+AT4G00960.1	inside	1	372				
+//
+# AT4G00970.1 Length: 665
+# AT4G00970.1 Number of predicted TMRs: 1
+AT4G00970.1	signal	1	27				
+AT4G00970.1	outside	28	280				
+AT4G00970.1	TMhelix	281	302				
+AT4G00970.1	inside	303	665				
+//
+# AT4G27290.1 Length: 783
+# AT4G27290.1 Number of predicted TMRs: 1
+AT4G27290.1	signal	1	23				
+AT4G27290.1	outside	24	500				
+AT4G27290.1	TMhelix	501	510				
+AT4G27290.1	inside	511	783				
+//
+# AT4G27300.1 Length: 815
+# AT4G27300.1 Number of predicted TMRs: 1
+AT4G27300.1	signal	1	22				
+AT4G27300.1	outside	23	438				
+AT4G27300.1	TMhelix	439	459				
+AT4G27300.1	inside	460	815				
+//
+# AT4G04490.1 Length: 658
+# AT4G04490.1 Number of predicted TMRs: 1
+AT4G04490.1	signal	1	26				
+AT4G04490.1	outside	27	282				
+AT4G04490.1	TMhelix	283	301				
+AT4G04490.1	inside	302	658				
+//
+# AT4G04510.1 Length: 648
+# AT4G04510.1 Number of predicted TMRs: 1
+AT4G04510.1	signal	1	25				
+AT4G04510.1	outside	26	280				
+AT4G04510.1	TMhelix	281	299				
+AT4G04510.1	inside	300	648				
+//
+# AT4G04500.1 Length: 646
+# AT4G04500.1 Number of predicted TMRs: 1
+AT4G04500.1	signal	1	26				
+AT4G04500.1	outside	27	287				
+AT4G04500.1	TMhelix	288	308				
+AT4G04500.1	inside	309	646				
+//
+# AT4G34440.1 Length: 670
+# AT4G34440.1 Number of predicted TMRs: 1
+AT4G34440.1	outside	1	188				
+AT4G34440.1	TMhelix	189	209				
+AT4G34440.1	inside	210	670				
+//
+# AT4G02420.1 Length: 669
+# AT4G02420.1 Number of predicted TMRs: 1
+AT4G02420.1	signal	1	23				
+AT4G02420.1	outside	24	294				
+AT4G02420.1	TMhelix	295	315				
+AT4G02420.1	inside	316	669				
+//
+# AT4G02410.1 Length: 674
+# AT4G02410.1 Number of predicted TMRs: 1
+AT4G02410.1	signal	1	24				
+AT4G02410.1	outside	25	298				
+AT4G02410.1	TMhelix	299	321				
+AT4G02410.1	inside	322	674				
+//
+# AT4G04960.1 Length: 686
+# AT4G04960.1 Number of predicted TMRs: 1
+AT4G04960.1	signal	1	20				
+AT4G04960.1	outside	21	285				
+AT4G04960.1	TMhelix	286	310				
+AT4G04960.1	inside	311	686				
+//
+# AT4G04540.1 Length: 659
+# AT4G04540.1 Number of predicted TMRs: 1
+AT4G04540.1	signal	1	27				
+AT4G04540.1	outside	28	289				
+AT4G04540.1	TMhelix	290	310				
+AT4G04540.1	inside	311	659				
+//
+# AT4G04570.1 Length: 654
+# AT4G04570.1 Number of predicted TMRs: 1
+AT4G04570.1	signal	1	27				
+AT4G04570.1	outside	28	287				
+AT4G04570.1	TMhelix	288	308				
+AT4G04570.1	inside	309	654				
+//
+# AT4G11530.1 Length: 669
+# AT4G11530.1 Number of predicted TMRs: 1
+AT4G11530.1	signal	1	23				
+AT4G11530.1	outside	24	285				
+AT4G11530.1	TMhelix	286	306				
+AT4G11530.1	inside	307	669				
+//
+# AT4G11460.1 Length: 700
+# AT4G11460.1 Number of predicted TMRs: 1
+AT4G11460.1	signal	1	24				
+AT4G11460.1	outside	25	285				
+AT4G11460.1	TMhelix	286	306				
+AT4G11460.1	inside	307	700				
+//
+# AT4G11470.1 Length: 666
+# AT4G11470.1 Number of predicted TMRs: 1
+AT4G11470.1	signal	1	23				
+AT4G11470.1	outside	24	279				
+AT4G11470.1	TMhelix	280	301				
+AT4G11470.1	inside	302	666				
+//
+# AT4G11900.1 Length: 849
+# AT4G11900.1 Number of predicted TMRs: 1
+AT4G11900.1	signal	1	26				
+AT4G11900.1	outside	27	470				
+AT4G11900.1	TMhelix	471	490				
+AT4G11900.1	inside	491	849				
+//
+# AT4G11490.1 Length: 636
+# AT4G11490.1 Number of predicted TMRs: 1
+AT4G11490.1	signal	1	25				
+AT4G11490.1	outside	26	266				
+AT4G11490.1	TMhelix	267	289				
+AT4G11490.1	inside	290	636				
+//
+# AT4G11480.1 Length: 656
+# AT4G11480.1 Number of predicted TMRs: 1
+AT4G11480.1	signal	1	23				
+AT4G11480.1	outside	24	262				
+AT4G11480.1	TMhelix	263	283				
+AT4G11480.1	inside	284	656				
+//
+# AT4G32300.1 Length: 821
+# AT4G32300.1 Number of predicted TMRs: 1
+AT4G32300.1	signal	1	21				
+AT4G32300.1	outside	22	429				
+AT4G32300.1	TMhelix	430	450				
+AT4G32300.1	inside	451	821				
+//
+# AT4G02010.1 Length: 725
+# AT4G02010.1 Number of predicted TMRs: 1
+AT4G02010.1	signal	1	41				
+AT4G02010.1	outside	42	306				
+AT4G02010.1	TMhelix	307	327				
+AT4G02010.1	inside	328	725				
+//
+# AT4G23130.2 Length: 663
+# AT4G23130.2 Number of predicted TMRs: 1
+AT4G23130.2	signal	1	24				
+AT4G23130.2	outside	25	281				
+AT4G23130.2	TMhelix	282	302				
+AT4G23130.2	inside	303	663				
+//
+# AT4G23140.2 Length: 680
+# AT4G23140.2 Number of predicted TMRs: 1
+AT4G23140.2	signal	1	24				
+AT4G23140.2	outside	25	289				
+AT4G23140.2	TMhelix	290	310				
+AT4G23140.2	inside	311	680				
+//
+# AT4G11890.3 Length: 354
+# AT4G11890.3 Number of predicted TMRs: 0
+AT4G11890.3	inside	1	354				
+//
+# AT4G23290.2 Length: 690
+# AT4G23290.2 Number of predicted TMRs: 1
+AT4G23290.2	signal	1	24				
+AT4G23290.2	outside	25	280				
+AT4G23290.2	TMhelix	281	303				
+AT4G23290.2	inside	304	690				
+//
+# AT5G66790.1 Length: 622
+# AT5G66790.1 Number of predicted TMRs: 1
+AT5G66790.1	signal	1	21				
+AT5G66790.1	outside	22	248				
+AT5G66790.1	TMhelix	249	269				
+AT5G66790.1	inside	270	622				
+//
+# AT5G58540.1 Length: 484
+# AT5G58540.1 Number of predicted TMRs: 1
+AT5G58540.1	signal	1	29				
+AT5G58540.1	outside	30	143				
+AT5G58540.1	TMhelix	144	165				
+AT5G58540.1	inside	166	484				
+//
+# AT5G28680.1 Length: 858
+# AT5G28680.1 Number of predicted TMRs: 1
+AT5G28680.1	signal	1	25				
+AT5G28680.1	outside	26	434				
+AT5G28680.1	TMhelix	435	455				
+AT5G28680.1	inside	456	858				
+//
+# AT5G65600.1 Length: 675
+# AT5G65600.1 Number of predicted TMRs: 1
+AT5G65600.1	signal	1	35				
+AT5G65600.1	outside	36	283				
+AT5G65600.1	TMhelix	284	306				
+AT5G65600.1	inside	307	675				
+//
+# AT5G02070.1 Length: 657
+# AT5G02070.1 Number of predicted TMRs: 1
+AT5G02070.1	signal	1	28				
+AT5G02070.1	outside	29	293				
+AT5G02070.1	TMhelix	294	314				
+AT5G02070.1	inside	315	657				
+//
+# AT5G40380.1 Length: 651
+# AT5G40380.1 Number of predicted TMRs: 1
+AT5G40380.1	signal	1	28				
+AT5G40380.1	outside	29	252				
+AT5G40380.1	TMhelix	253	275				
+AT5G40380.1	inside	276	651				
+//
+# AT5G61350.1 Length: 842
+# AT5G61350.1 Number of predicted TMRs: 1
+AT5G61350.1	signal	1	26				
+AT5G61350.1	outside	27	423				
+AT5G61350.1	TMhelix	424	446				
+AT5G61350.1	inside	447	842				
+//
+# AT5G42440.1 Length: 359
+# AT5G42440.1 Number of predicted TMRs: 1
+AT5G42440.1	outside	1	6				
+AT5G42440.1	TMhelix	7	28				
+AT5G42440.1	inside	29	359				
+//
+# AT5G61570.1 Length: 361
+# AT5G61570.1 Number of predicted TMRs: 1
+AT5G61570.1	outside	1	8				
+AT5G61570.1	TMhelix	9	31				
+AT5G61570.1	inside	32	361				
+//
+# AT5G10530.1 Length: 651
+# AT5G10530.1 Number of predicted TMRs: 1
+AT5G10530.1	signal	1	19				
+AT5G10530.1	outside	20	268				
+AT5G10530.1	TMhelix	269	291				
+AT5G10530.1	inside	292	651				
+//
+# AT5G54380.1 Length: 855
+# AT5G54380.1 Number of predicted TMRs: 1
+AT5G54380.1	signal	1	23				
+AT5G54380.1	outside	24	416				
+AT5G54380.1	TMhelix	417	437				
+AT5G54380.1	inside	438	855				
+//
+# AT5G03140.1 Length: 711
+# AT5G03140.1 Number of predicted TMRs: 1
+AT5G03140.1	signal	1	30				
+AT5G03140.1	outside	31	318				
+AT5G03140.1	TMhelix	319	338				
+AT5G03140.1	inside	339	711				
+//
+# AT5G01560.1 Length: 691
+# AT5G01560.1 Number of predicted TMRs: 1
+AT5G01560.1	signal	1	24				
+AT5G01560.1	outside	25	308				
+AT5G01560.1	TMhelix	309	329				
+AT5G01560.1	inside	330	691				
+//
+# AT5G01540.1 Length: 682
+# AT5G01540.1 Number of predicted TMRs: 1
+AT5G01540.1	signal	1	26				
+AT5G01540.1	outside	27	309				
+AT5G01540.1	TMhelix	310	333				
+AT5G01540.1	inside	334	682				
+//
+# AT5G01550.1 Length: 688
+# AT5G01550.1 Number of predicted TMRs: 1
+AT5G01550.1	signal	1	14				
+AT5G01550.1	outside	15	306				
+AT5G01550.1	TMhelix	307	327				
+AT5G01550.1	inside	328	688				
+//
+# AT5G07150.1 Length: 553
+# AT5G07150.1 Number of predicted TMRs: 1
+AT5G07150.1	signal	1	30				
+AT5G07150.1	outside	31	231				
+AT5G07150.1	TMhelix	232	252				
+AT5G07150.1	inside	253	553				
+//
+# AT5G13290.1 Length: 376
+# AT5G13290.1 Number of predicted TMRs: 1
+AT5G13290.1	signal	1	36				
+AT5G13290.1	outside	37	62				
+AT5G13290.1	TMhelix	63	85				
+AT5G13290.1	inside	86	376				
+//
+# AT5G07620.1 Length: 359
+# AT5G07620.1 Number of predicted TMRs: 1
+AT5G07620.1	outside	1	5				
+AT5G07620.1	TMhelix	6	26				
+AT5G07620.1	inside	27	359				
+//
+# AT5G42120.1 Length: 691
+# AT5G42120.1 Number of predicted TMRs: 1
+AT5G42120.1	signal	1	25				
+AT5G42120.1	outside	26	310				
+AT5G42120.1	TMhelix	311	331				
+AT5G42120.1	inside	332	691				
+//
+# AT5G38560.1 Length: 681
+# AT5G38560.1 Number of predicted TMRs: 1
+AT5G38560.1	outside	1	238				
+AT5G38560.1	TMhelix	239	259				
+AT5G38560.1	inside	260	681				
+//
+# AT5G56790.1 Length: 669
+# AT5G56790.1 Number of predicted TMRs: 0
+AT5G56790.1	inside	1	669				
+//
+# AT5G56890.1 Length: 1113
+# AT5G56890.1 Number of predicted TMRs: 1
+AT5G56890.1	signal	1	22				
+AT5G56890.1	outside	23	630				
+AT5G56890.1	TMhelix	631	651				
+AT5G56890.1	inside	652	1113				
+//
+# AT5G06740.1 Length: 652
+# AT5G06740.1 Number of predicted TMRs: 1
+AT5G06740.1	signal	1	24				
+AT5G06740.1	outside	25	267				
+AT5G06740.1	TMhelix	268	291				
+AT5G06740.1	inside	292	652				
+//
+# AT5G39000.1 Length: 873
+# AT5G39000.1 Number of predicted TMRs: 1
+AT5G39000.1	signal	1	21				
+AT5G39000.1	outside	22	440				
+AT5G39000.1	TMhelix	441	465				
+AT5G39000.1	inside	466	873				
+//
+# AT5G39020.1 Length: 813
+# AT5G39020.1 Number of predicted TMRs: 1
+AT5G39020.1	signal	1	21				
+AT5G39020.1	outside	22	439				
+AT5G39020.1	TMhelix	440	460				
+AT5G39020.1	inside	461	813				
+//
+# AT5G38990.1 Length: 880
+# AT5G38990.1 Number of predicted TMRs: 1
+AT5G38990.1	signal	1	19				
+AT5G38990.1	outside	20	440				
+AT5G38990.1	TMhelix	441	461				
+AT5G38990.1	inside	462	880				
+//
+# AT5G39030.1 Length: 806
+# AT5G39030.1 Number of predicted TMRs: 1
+AT5G39030.1	signal	1	17				
+AT5G39030.1	outside	18	443				
+AT5G39030.1	TMhelix	444	464				
+AT5G39030.1	inside	465	806				
+//
+# AT5G23170.1 Length: 341
+# AT5G23170.1 Number of predicted TMRs: 0
+AT5G23170.1	inside	1	341				
+//
+# AT5G41680.1 Length: 359
+# AT5G41680.1 Number of predicted TMRs: 0
+AT5G41680.1	inside	1	359				
+//
+# AT5G60280.1 Length: 657
+# AT5G60280.1 Number of predicted TMRs: 1
+AT5G60280.1	signal	1	23				
+AT5G60280.1	outside	24	284				
+AT5G60280.1	TMhelix	285	305				
+AT5G60280.1	inside	306	657				
+//
+# AT5G60270.1 Length: 668
+# AT5G60270.1 Number of predicted TMRs: 1
+AT5G60270.1	signal	1	21				
+AT5G60270.1	outside	22	288				
+AT5G60270.1	TMhelix	289	307				
+AT5G60270.1	inside	308	668				
+//
+# AT5G60900.1 Length: 748
+# AT5G60900.1 Number of predicted TMRs: 1
+AT5G60900.1	signal	1	24				
+AT5G60900.1	outside	25	434				
+AT5G60900.1	TMhelix	435	444				
+AT5G60900.1	inside	445	748				
+//
+# AT5G48380.1 Length: 620
+# AT5G48380.1 Number of predicted TMRs: 1
+AT5G48380.1	signal	1	27				
+AT5G48380.1	outside	28	228				
+AT5G48380.1	TMhelix	229	249				
+AT5G48380.1	inside	250	620				
+//
+# AT5G43020.1 Length: 669
+# AT5G43020.1 Number of predicted TMRs: 1
+AT5G43020.1	signal	1	24				
+AT5G43020.1	outside	25	279				
+AT5G43020.1	TMhelix	280	301				
+AT5G43020.1	inside	302	669				
+//
+# AT5G59700.1 Length: 829
+# AT5G59700.1 Number of predicted TMRs: 1
+AT5G59700.1	signal	1	24				
+AT5G59700.1	outside	25	405				
+AT5G59700.1	TMhelix	406	427				
+AT5G59700.1	inside	428	829				
+//
+# AT5G38260.1 Length: 638
+# AT5G38260.1 Number of predicted TMRs: 1
+AT5G38260.1	signal	1	29				
+AT5G38260.1	outside	30	262				
+AT5G38260.1	TMhelix	263	285				
+AT5G38260.1	inside	286	638				
+//
+# AT5G38280.1 Length: 665
+# AT5G38280.1 Number of predicted TMRs: 1
+AT5G38280.1	signal	1	24				
+AT5G38280.1	outside	25	276				
+AT5G38280.1	TMhelix	277	297				
+AT5G38280.1	inside	298	665				
+//
+# AT5G38240.1 Length: 588
+# AT5G38240.1 Number of predicted TMRs: 1
+AT5G38240.1	signal	1	30				
+AT5G38240.1	outside	31	253				
+AT5G38240.1	TMhelix	254	263				
+AT5G38240.1	inside	264	588				
+//
+# AT5G38250.1 Length: 579
+# AT5G38250.1 Number of predicted TMRs: 1
+AT5G38250.1	signal	1	30				
+AT5G38250.1	outside	31	255				
+AT5G38250.1	TMhelix	256	265				
+AT5G38250.1	inside	266	579				
+//
+# AT5G59270.1 Length: 668
+# AT5G59270.1 Number of predicted TMRs: 1
+AT5G59270.1	signal	1	24				
+AT5G59270.1	outside	25	292				
+AT5G59270.1	TMhelix	293	315				
+AT5G59270.1	inside	316	668				
+//
+# AT5G59260.1 Length: 674
+# AT5G59260.1 Number of predicted TMRs: 1
+AT5G59260.1	signal	1	24				
+AT5G59260.1	outside	25	301				
+AT5G59260.1	TMhelix	302	322				
+AT5G59260.1	inside	323	674				
+//
+# AT5G38210.1 Length: 686
+# AT5G38210.1 Number of predicted TMRs: 1
+AT5G38210.1	signal	1	33				
+AT5G38210.1	outside	34	263				
+AT5G38210.1	TMhelix	264	284				
+AT5G38210.1	inside	285	686				
+//
+# AT5G24080.1 Length: 470
+# AT5G24080.1 Number of predicted TMRs: 1
+AT5G24080.1	outside	1	71				
+AT5G24080.1	TMhelix	72	92				
+AT5G24080.1	inside	93	470				
+//
+# AT5G24010.1 Length: 824
+# AT5G24010.1 Number of predicted TMRs: 1
+AT5G24010.1	signal	1	24				
+AT5G24010.1	outside	25	409				
+AT5G24010.1	TMhelix	410	430				
+AT5G24010.1	inside	431	824				
+//
+# AT5G55830.1 Length: 681
+# AT5G55830.1 Number of predicted TMRs: 1
+AT5G55830.1	signal	1	28				
+AT5G55830.1	outside	29	307				
+AT5G55830.1	TMhelix	308	328				
+AT5G55830.1	inside	329	681				
+//
+# AT5G47850.1 Length: 751
+# AT5G47850.1 Number of predicted TMRs: 1
+AT5G47850.1	signal	1	31				
+AT5G47850.1	outside	32	366				
+AT5G47850.1	TMhelix	367	387				
+AT5G47850.1	inside	388	751				
+//
+# AT5G15730.1 Length: 434
+# AT5G15730.1 Number of predicted TMRs: 1
+AT5G15730.1	outside	1	11				
+AT5G15730.1	TMhelix	12	30				
+AT5G15730.1	inside	31	434				
+//
+# AT5G60310.1 Length: 616
+# AT5G60310.1 Number of predicted TMRs: 1
+AT5G60310.1	signal	1	22				
+AT5G60310.1	outside	23	287				
+AT5G60310.1	TMhelix	288	309				
+AT5G60310.1	inside	310	616				
+//
+# AT5G60300.1 Length: 718
+# AT5G60300.1 Number of predicted TMRs: 1
+AT5G60300.1	signal	1	21				
+AT5G60300.1	outside	22	288				
+AT5G60300.1	TMhelix	289	309				
+AT5G60300.1	inside	310	718				
+//
+# AT5G60320.1 Length: 675
+# AT5G60320.1 Number of predicted TMRs: 1
+AT5G60320.1	signal	1	22				
+AT5G60320.1	outside	23	293				
+AT5G60320.1	TMhelix	294	314				
+AT5G60320.1	inside	315	675				
+//
+# AT5G35370.1 Length: 872
+# AT5G35370.1 Number of predicted TMRs: 1
+AT5G35370.1	signal	1	23				
+AT5G35370.1	outside	24	444				
+AT5G35370.1	TMhelix	445	465				
+AT5G35370.1	inside	466	872				
+//
+# AT5G54590.2 Length: 440
+# AT5G54590.2 Number of predicted TMRs: 1
+AT5G54590.2	outside	1	7				
+AT5G54590.2	TMhelix	8	28				
+AT5G54590.2	inside	29	440				
+//
+# AT2G33080.1 Length: 740
+# AT2G33080.1 Number of predicted TMRs: 0
+AT2G33080.1	signal	1	24				
+AT2G33080.1	outside	25	740				
+//
+# AT3G25020.1 Length: 890
+# AT3G25020.1 Number of predicted TMRs: 1
+AT3G25020.1	signal	1	24				
+AT3G25020.1	outside	25	844				
+AT3G25020.1	TMhelix	845	864				
+AT3G25020.1	inside	865	890				
+//
+# AT2G32660.2 Length: 771
+# AT2G32660.2 Number of predicted TMRs: 1
+AT2G32660.2	signal	1	20				
+AT2G32660.2	outside	21	728				
+AT2G32660.2	TMhelix	729	749				
+AT2G32660.2	inside	750	771				
+//
+# AT4G04220.1 Length: 811
+# AT4G04220.1 Number of predicted TMRs: 1
+AT4G04220.1	signal	1	23				
+AT4G04220.1	outside	24	785				
+AT4G04220.1	TMhelix	786	806				
+AT4G04220.1	inside	807	811				
+//
+# AT2G42800.1 Length: 462
+# AT2G42800.1 Number of predicted TMRs: 0
+AT2G42800.1	signal	1	33				
+AT2G42800.1	outside	34	462				
+//
+# At4g13900.1 Length: 844
+# At4g13900.1 Number of predicted TMRs: 1
+At4g13900.1	signal	1	31				
+At4g13900.1	outside	32	807				
+At4g13900.1	TMhelix	808	828				
+At4g13900.1	inside	829	844				

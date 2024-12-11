@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Input
+input_files=("LRR-RLK.fasta" "LRR-RLP.fasta" "LysM-RLK.fasta" "LysM-RLP.fasta")
+
+# Output
+output_files=("AtLRR-RLK.fasta" "AtLRR-RLP.fasta" "AtLysM-RLK.fasta" "AtLysM-RLP.fasta")
+
+# Count header number
+selected_headers=0
+
+# Select sequences including "Athaliana" from input files, and generate new output files
+for ((i=0; i<${#input_files[@]}; i++)); do
+    selected=$(awk 'BEGIN {RS=">"} NR>1 {sub("\n","\t"); gsub("\n",""); print ">"$0}' "${input_files[$i]}" | grep -c "Athaliana")
+    ((selected_headers += selected))
+    awk 'BEGIN {RS=">"} NR>1 {sub("\n","\t"); gsub("\n",""); print ">"$0}' "${input_files[$i]}" | grep "Athaliana" | sed 's/\(.*\)\t/\1\n/' > "${output_files[$i]}"
+    echo "Selected proteins from ${input_files[$i]}: $selected"
+done
+
+echo "Total selected protein number: $selected_headers"

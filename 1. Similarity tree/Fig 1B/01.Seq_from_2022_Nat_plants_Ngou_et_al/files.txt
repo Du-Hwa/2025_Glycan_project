@@ -1,0 +1,4 @@
+LRR-RLK.fasta.gz
+LRR-RLP.fasta.gz
+LysM-RLK.fasta.gz
+LysM-RLP.fasta.gz

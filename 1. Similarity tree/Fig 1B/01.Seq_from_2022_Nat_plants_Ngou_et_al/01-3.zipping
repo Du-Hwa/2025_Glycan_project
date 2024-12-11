@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Input files
+input_files=("LRR-RLK.fasta" "LRR-RLP.fasta" "LysM-RLK.fasta" "LysM-RLP.fasta")
+
+# Compress each input file to gzip format
+for file in "${input_files[@]}"; do
+    gzip "$file"
+    echo "Compressed $file to gzip format."
+done
