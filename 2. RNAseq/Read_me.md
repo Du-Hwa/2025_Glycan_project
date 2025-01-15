@@ -36,10 +36,10 @@ This folder contains codes for RNA-Seq data analysis and visualization, designed
 The analysis must be performed sequentially as each step uses output files from the previous step.
 
 1. **02.Volcano_plot.ipynb**  
-   - Generates the **Supplementary Figure 5C** (Volcano plot).  
+   - Generates the **Supplemental Figure 5C** (Volcano plot).  
 
 2. **03.PCA_plot.ipynb**  
-   - Generates the **Supplementary Figure 5B** (PCA plot).  
+   - Generates the **Supplemental Figure 5B** (PCA plot).  
 
 3. **04.Heatmap.ipynb**  
    - Generates **Figure 3E** (Heatmap).  
@@ -48,7 +48,10 @@ The analysis must be performed sequentially as each step uses output files from 
    - Generates **Figure 3F** (Venn diagrams).  
 
 5. **06.New_GO_bubble_chart.ipynb**  
-   - Generates **Figure 3G** and **Supplementary Figure 5D** (Bubble plot).  
+   - Generates **Figure 3G** and **Supplemental Figure 5D** (Bubble plot).
+
+6. **07.Table.ipynb**
+   - Generates **Supplemental Table 2** which includes information of DEGs from overlapped region of Venn diagrams (Figure 3F).
 
 ---
 
