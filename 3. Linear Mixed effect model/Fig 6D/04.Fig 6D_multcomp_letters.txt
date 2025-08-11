@@ -1,6 +1,0 @@
-        01 WT_Mock         02 WT_RG.I        03 WT_flg22    04 efrfls2_Mock 
-               "a"                "a"                "a"                "a" 
-   05 efrfls2_RG.I   06 efrfls2_flg22       07 WT_Mock.1       08 WT_RG.I.1 
-               "a"                "a"                "b"                "c" 
-     09 WT_flg22.1  10 efrfls2_Mock.1  11 efrfls2_RG.I.1 12 efrfls2_flg22.1 
-               "c"                "d"                "e"                "d" 
