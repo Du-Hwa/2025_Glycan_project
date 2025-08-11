@@ -1,0 +1,14 @@
+     Sum Sq         Mean Sq          NumDF        DenDF        F value     
+ Min.   :343.8   Min.   :31.26   Min.   :11   Min.   :144   Min.   :518.8  
+ 1st Qu.:343.8   1st Qu.:31.26   1st Qu.:11   1st Qu.:144   1st Qu.:518.8  
+ Median :343.8   Median :31.26   Median :11   Median :144   Median :518.8  
+ Mean   :343.8   Mean   :31.26   Mean   :11   Mean   :144   Mean   :518.8  
+ 3rd Qu.:343.8   3rd Qu.:31.26   3rd Qu.:11   3rd Qu.:144   3rd Qu.:518.8  
+ Max.   :343.8   Max.   :31.26   Max.   :11   Max.   :144   Max.   :518.8  
+     Pr(>F)          
+ Min.   :6.701e-110  
+ 1st Qu.:6.701e-110  
+ Median :6.701e-110  
+ Mean   :6.701e-110  
+ 3rd Qu.:6.701e-110  
+ Max.   :6.701e-110  

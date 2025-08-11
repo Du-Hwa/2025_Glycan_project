@@ -1,0 +1,148 @@
+
+	 Simultaneous Tests for General Linear Hypotheses
+
+Multiple Comparisons of Means: Tukey Contrasts
+
+
+Fit: lmer(formula = VALUE ~ Treatment + (1 | Trial), data = VALUEdata, 
+    REML = FALSE)
+
+Linear Hypotheses:
+                                            Estimate Std. Error z value
+02 WT_RG.I - 01 WT_Mock == 0                 0.06339    0.12273   0.516
+03 WT_flg22 - 01 WT_Mock == 0                0.24540    0.12273   2.000
+04 efrfls2_Mock - 01 WT_Mock == 0            0.14701    0.12273   1.198
+05 efrfls2_RG.I - 01 WT_Mock == 0           -0.03038    0.12273  -0.248
+06 efrfls2_flg22 - 01 WT_Mock == 0           0.30940    0.12273   2.521
+07 WT_Mock.1 - 01 WT_Mock == 0               2.97782    0.10629  28.017
+08 WT_RG.I.1 - 01 WT_Mock == 0               2.56914    0.10629  24.172
+09 WT_flg22.1 - 01 WT_Mock == 0              2.38799    0.10629  22.468
+10 efrfls2_Mock.1 - 01 WT_Mock == 0          3.98613    0.10629  37.504
+11 efrfls2_RG.I.1 - 01 WT_Mock == 0          3.51885    0.10629  33.108
+12 efrfls2_flg22.1 - 01 WT_Mock == 0         3.87037    0.10629  36.415
+03 WT_flg22 - 02 WT_RG.I == 0                0.18201    0.12273   1.483
+04 efrfls2_Mock - 02 WT_RG.I == 0            0.08363    0.12273   0.681
+05 efrfls2_RG.I - 02 WT_RG.I == 0           -0.09377    0.12273  -0.764
+06 efrfls2_flg22 - 02 WT_RG.I == 0           0.24601    0.12273   2.005
+07 WT_Mock.1 - 02 WT_RG.I == 0               2.91443    0.10629  27.421
+08 WT_RG.I.1 - 02 WT_RG.I == 0               2.50575    0.10629  23.576
+09 WT_flg22.1 - 02 WT_RG.I == 0              2.32460    0.10629  21.871
+10 efrfls2_Mock.1 - 02 WT_RG.I == 0          3.92275    0.10629  36.908
+11 efrfls2_RG.I.1 - 02 WT_RG.I == 0          3.45547    0.10629  32.511
+12 efrfls2_flg22.1 - 02 WT_RG.I == 0         3.80698    0.10629  35.819
+04 efrfls2_Mock - 03 WT_flg22 == 0          -0.09839    0.12273  -0.802
+05 efrfls2_RG.I - 03 WT_flg22 == 0          -0.27578    0.12273  -2.247
+06 efrfls2_flg22 - 03 WT_flg22 == 0          0.06400    0.12273   0.521
+07 WT_Mock.1 - 03 WT_flg22 == 0              2.73242    0.10629  25.708
+08 WT_RG.I.1 - 03 WT_flg22 == 0              2.32374    0.10629  21.863
+09 WT_flg22.1 - 03 WT_flg22 == 0             2.14259    0.10629  20.159
+10 efrfls2_Mock.1 - 03 WT_flg22 == 0         3.74073    0.10629  35.195
+11 efrfls2_RG.I.1 - 03 WT_flg22 == 0         3.27345    0.10629  30.799
+12 efrfls2_flg22.1 - 03 WT_flg22 == 0        3.62497    0.10629  34.106
+05 efrfls2_RG.I - 04 efrfls2_Mock == 0      -0.17739    0.12273  -1.445
+06 efrfls2_flg22 - 04 efrfls2_Mock == 0      0.16239    0.12273   1.323
+07 WT_Mock.1 - 04 efrfls2_Mock == 0          2.83081    0.10629  26.634
+08 WT_RG.I.1 - 04 efrfls2_Mock == 0          2.42212    0.10629  22.789
+09 WT_flg22.1 - 04 efrfls2_Mock == 0         2.24098    0.10629  21.085
+10 efrfls2_Mock.1 - 04 efrfls2_Mock == 0     3.83912    0.10629  36.121
+11 efrfls2_RG.I.1 - 04 efrfls2_Mock == 0     3.37184    0.10629  31.725
+12 efrfls2_flg22.1 - 04 efrfls2_Mock == 0    3.72335    0.10629  35.032
+06 efrfls2_flg22 - 05 efrfls2_RG.I == 0      0.33978    0.12273   2.769
+07 WT_Mock.1 - 05 efrfls2_RG.I == 0          3.00820    0.10629  28.303
+08 WT_RG.I.1 - 05 efrfls2_RG.I == 0          2.59952    0.10629  24.458
+09 WT_flg22.1 - 05 efrfls2_RG.I == 0         2.41837    0.10629  22.754
+10 efrfls2_Mock.1 - 05 efrfls2_RG.I == 0     4.01651    0.10629  37.790
+11 efrfls2_RG.I.1 - 05 efrfls2_RG.I == 0     3.54923    0.10629  33.394
+12 efrfls2_flg22.1 - 05 efrfls2_RG.I == 0    3.90075    0.10629  36.701
+07 WT_Mock.1 - 06 efrfls2_flg22 == 0         2.66842    0.10629  25.106
+08 WT_RG.I.1 - 06 efrfls2_flg22 == 0         2.25974    0.10629  21.261
+09 WT_flg22.1 - 06 efrfls2_flg22 == 0        2.07859    0.10629  19.557
+10 efrfls2_Mock.1 - 06 efrfls2_flg22 == 0    3.67674    0.10629  34.593
+11 efrfls2_RG.I.1 - 06 efrfls2_flg22 == 0    3.20945    0.10629  30.197
+12 efrfls2_flg22.1 - 06 efrfls2_flg22 == 0   3.56097    0.10629  33.504
+08 WT_RG.I.1 - 07 WT_Mock.1 == 0            -0.40868    0.08678  -4.709
+09 WT_flg22.1 - 07 WT_Mock.1 == 0           -0.58983    0.08678  -6.797
+10 efrfls2_Mock.1 - 07 WT_Mock.1 == 0        1.00832    0.08678  11.619
+11 efrfls2_RG.I.1 - 07 WT_Mock.1 == 0        0.54103    0.08678   6.234
+12 efrfls2_flg22.1 - 07 WT_Mock.1 == 0       0.89255    0.08678  10.285
+09 WT_flg22.1 - 08 WT_RG.I.1 == 0           -0.18115    0.08678  -2.087
+10 efrfls2_Mock.1 - 08 WT_RG.I.1 == 0        1.41700    0.08678  16.328
+11 efrfls2_RG.I.1 - 08 WT_RG.I.1 == 0        0.94972    0.08678  10.944
+12 efrfls2_flg22.1 - 08 WT_RG.I.1 == 0       1.30123    0.08678  14.994
+10 efrfls2_Mock.1 - 09 WT_flg22.1 == 0       1.59814    0.08678  18.416
+11 efrfls2_RG.I.1 - 09 WT_flg22.1 == 0       1.13086    0.08678  13.031
+12 efrfls2_flg22.1 - 09 WT_flg22.1 == 0      1.48238    0.08678  17.082
+11 efrfls2_RG.I.1 - 10 efrfls2_Mock.1 == 0  -0.46728    0.08678  -5.385
+12 efrfls2_flg22.1 - 10 efrfls2_Mock.1 == 0 -0.11577    0.08678  -1.334
+12 efrfls2_flg22.1 - 11 efrfls2_RG.I.1 == 0  0.35152    0.08678   4.051
+                                            Pr(>|z|)    
+02 WT_RG.I - 01 WT_Mock == 0                   1.000    
+03 WT_flg22 - 01 WT_Mock == 0                  0.686    
+04 efrfls2_Mock - 01 WT_Mock == 0              0.989    
+05 efrfls2_RG.I - 01 WT_Mock == 0              1.000    
+06 efrfls2_flg22 - 01 WT_Mock == 0             0.318    
+07 WT_Mock.1 - 01 WT_Mock == 0                 <0.01 ***
+08 WT_RG.I.1 - 01 WT_Mock == 0                 <0.01 ***
+09 WT_flg22.1 - 01 WT_Mock == 0                <0.01 ***
+10 efrfls2_Mock.1 - 01 WT_Mock == 0            <0.01 ***
+11 efrfls2_RG.I.1 - 01 WT_Mock == 0            <0.01 ***
+12 efrfls2_flg22.1 - 01 WT_Mock == 0           <0.01 ***
+03 WT_flg22 - 02 WT_RG.I == 0                  0.943    
+04 efrfls2_Mock - 02 WT_RG.I == 0              1.000    
+05 efrfls2_RG.I - 02 WT_RG.I == 0              1.000    
+06 efrfls2_flg22 - 02 WT_RG.I == 0             0.683    
+07 WT_Mock.1 - 02 WT_RG.I == 0                 <0.01 ***
+08 WT_RG.I.1 - 02 WT_RG.I == 0                 <0.01 ***
+09 WT_flg22.1 - 02 WT_RG.I == 0                <0.01 ***
+10 efrfls2_Mock.1 - 02 WT_RG.I == 0            <0.01 ***
+11 efrfls2_RG.I.1 - 02 WT_RG.I == 0            <0.01 ***
+12 efrfls2_flg22.1 - 02 WT_RG.I == 0           <0.01 ***
+04 efrfls2_Mock - 03 WT_flg22 == 0             1.000    
+05 efrfls2_RG.I - 03 WT_flg22 == 0             0.506    
+06 efrfls2_flg22 - 03 WT_flg22 == 0            1.000    
+07 WT_Mock.1 - 03 WT_flg22 == 0                <0.01 ***
+08 WT_RG.I.1 - 03 WT_flg22 == 0                <0.01 ***
+09 WT_flg22.1 - 03 WT_flg22 == 0               <0.01 ***
+10 efrfls2_Mock.1 - 03 WT_flg22 == 0           <0.01 ***
+11 efrfls2_RG.I.1 - 03 WT_flg22 == 0           <0.01 ***
+12 efrfls2_flg22.1 - 03 WT_flg22 == 0          <0.01 ***
+05 efrfls2_RG.I - 04 efrfls2_Mock == 0         0.953    
+06 efrfls2_flg22 - 04 efrfls2_Mock == 0        0.975    
+07 WT_Mock.1 - 04 efrfls2_Mock == 0            <0.01 ***
+08 WT_RG.I.1 - 04 efrfls2_Mock == 0            <0.01 ***
+09 WT_flg22.1 - 04 efrfls2_Mock == 0           <0.01 ***
+10 efrfls2_Mock.1 - 04 efrfls2_Mock == 0       <0.01 ***
+11 efrfls2_RG.I.1 - 04 efrfls2_Mock == 0       <0.01 ***
+12 efrfls2_flg22.1 - 04 efrfls2_Mock == 0      <0.01 ***
+06 efrfls2_flg22 - 05 efrfls2_RG.I == 0        0.188    
+07 WT_Mock.1 - 05 efrfls2_RG.I == 0            <0.01 ***
+08 WT_RG.I.1 - 05 efrfls2_RG.I == 0            <0.01 ***
+09 WT_flg22.1 - 05 efrfls2_RG.I == 0           <0.01 ***
+10 efrfls2_Mock.1 - 05 efrfls2_RG.I == 0       <0.01 ***
+11 efrfls2_RG.I.1 - 05 efrfls2_RG.I == 0       <0.01 ***
+12 efrfls2_flg22.1 - 05 efrfls2_RG.I == 0      <0.01 ***
+07 WT_Mock.1 - 06 efrfls2_flg22 == 0           <0.01 ***
+08 WT_RG.I.1 - 06 efrfls2_flg22 == 0           <0.01 ***
+09 WT_flg22.1 - 06 efrfls2_flg22 == 0          <0.01 ***
+10 efrfls2_Mock.1 - 06 efrfls2_flg22 == 0      <0.01 ***
+11 efrfls2_RG.I.1 - 06 efrfls2_flg22 == 0      <0.01 ***
+12 efrfls2_flg22.1 - 06 efrfls2_flg22 == 0     <0.01 ***
+08 WT_RG.I.1 - 07 WT_Mock.1 == 0               <0.01 ***
+09 WT_flg22.1 - 07 WT_Mock.1 == 0              <0.01 ***
+10 efrfls2_Mock.1 - 07 WT_Mock.1 == 0          <0.01 ***
+11 efrfls2_RG.I.1 - 07 WT_Mock.1 == 0          <0.01 ***
+12 efrfls2_flg22.1 - 07 WT_Mock.1 == 0         <0.01 ***
+09 WT_flg22.1 - 08 WT_RG.I.1 == 0              0.623    
+10 efrfls2_Mock.1 - 08 WT_RG.I.1 == 0          <0.01 ***
+11 efrfls2_RG.I.1 - 08 WT_RG.I.1 == 0          <0.01 ***
+12 efrfls2_flg22.1 - 08 WT_RG.I.1 == 0         <0.01 ***
+10 efrfls2_Mock.1 - 09 WT_flg22.1 == 0         <0.01 ***
+11 efrfls2_RG.I.1 - 09 WT_flg22.1 == 0         <0.01 ***
+12 efrfls2_flg22.1 - 09 WT_flg22.1 == 0        <0.01 ***
+11 efrfls2_RG.I.1 - 10 efrfls2_Mock.1 == 0     <0.01 ***
+12 efrfls2_flg22.1 - 10 efrfls2_Mock.1 == 0    0.974    
+12 efrfls2_flg22.1 - 11 efrfls2_RG.I.1 == 0    <0.01 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+(Adjusted p values reported -- single-step method)
+
